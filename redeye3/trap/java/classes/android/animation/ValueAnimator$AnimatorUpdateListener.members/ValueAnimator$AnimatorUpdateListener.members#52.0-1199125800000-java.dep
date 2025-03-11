@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\animation\ValueAnimator$AnimatorUpdateListener.members\ValueAnimator$AnimatorUpdateListener.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/animation/ValueAnimator$AnimatorUpdateListener.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/animation/ValueAnimator.members.trap.gz

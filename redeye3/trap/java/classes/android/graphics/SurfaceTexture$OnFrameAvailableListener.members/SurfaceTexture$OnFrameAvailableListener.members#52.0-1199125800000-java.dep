@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\graphics\SurfaceTexture$OnFrameAvailableListener.members\SurfaceTexture$OnFrameAvailableListener.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/graphics/SurfaceTexture$OnFrameAvailableListener.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/graphics/SurfaceTexture.members.trap.gz

@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\app\PendingIntent$CanceledException.members\PendingIntent$CanceledException.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/app/PendingIntent$CanceledException.members.trap.gz
+classes/android/util/AndroidException.members.trap.gz
+classes/android/app/PendingIntent.members.trap.gz
+classes/java/lang/Exception.members.trap.gz
+classes/java/lang/String.members.trap.gz

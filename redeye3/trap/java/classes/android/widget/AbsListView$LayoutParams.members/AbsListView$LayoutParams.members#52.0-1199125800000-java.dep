@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\widget\AbsListView$LayoutParams.members\AbsListView$LayoutParams.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/widget/AbsListView$LayoutParams.members.trap.gz
+classes/android/view/ViewGroup$LayoutParams.members.trap.gz
+classes/android/widget/AbsListView.members.trap.gz
+classes/android/content/Context.members.trap.gz
+classes/android/util/AttributeSet.members.trap.gz

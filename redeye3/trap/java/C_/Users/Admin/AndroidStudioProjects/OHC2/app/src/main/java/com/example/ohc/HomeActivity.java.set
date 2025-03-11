@@ -1,0 +1,23 @@
+TRAP dependencies 1.2
+
+SOURCES
+
+INCLUDES
+
+OBJECTS
+
+INPUT_OBJECTS
+
+TRAPS
+C_\Users\Admin\AndroidStudioProjects\OHC2\app\src\main\java\com\example\ohc\HomeActivity.java.trap.gz
+classes\androidx\core\view\GravityCompat.members\GravityCompat.members#52.0-0-java.trap.gz
+classes\com\example\ohc\R$string.members\R$string.members#52.0-347139062000-java.trap.gz
+classes\com\example\ohc\HomeFragment.members\HomeFragment.members#0.0-1695732242871-java.trap.gz
+classes\com\example\ohc\MyDetailFragment.members\MyDetailFragment.members#0.0-1695732242864-java.trap.gz
+classes\com\example\ohc\LoginActivity.members\LoginActivity.members#0.0-1695732242943-java.trap.gz
+classes\com\example\ohc\MyAdapter4.members\MyAdapter4.members#0.0-1693740838548-java.trap.gz
+classes\com\example\ohc\MyAdapter4$MyViewHolder.members\MyAdapter4$MyViewHolder.members#0.0-1693740838548-java.trap.gz
+jars\C_\Users\Admin\AppData\Local\Android\Sdk\platforms\android-32\android.jar.trap.gz
+jars\C_\Users\Admin\.gradle\caches\transforms-3\f4abdb1f1c85337c8f3346f0bf476239\transformed\core-1.7.0-api.jar.trap.gz
+jars\C_\Users\Admin\AndroidStudioProjects\OHC2\app\build\intermediates\compile_and_runtime_not_namespaced_r_class_jar\debug\R.jar.trap.gz
+jars\C_\Users\Admin\.gradle\caches\transforms-3\02fc5317a8724179293bd91fbc873b09\transformed\recyclerview-1.1.0-api.jar.trap.gz

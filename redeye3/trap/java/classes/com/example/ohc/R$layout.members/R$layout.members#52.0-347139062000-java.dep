@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\example\ohc\R$layout.members\R$layout.members#52.0-347139062000-java.trap.gz
+
+TRAPS
+classes/com/example/ohc/R$layout.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/com/example/ohc/R.members.trap.gz

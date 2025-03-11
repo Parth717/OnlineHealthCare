@@ -1,0 +1,17 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\graphics\RenderNode.members\RenderNode.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/graphics/RenderNode.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/graphics/Rect.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/android/graphics/RenderEffect.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz
+classes/android/graphics/Outline.members.trap.gz
+classes/android/graphics/Paint.members.trap.gz
+classes/android/graphics/Matrix.members.trap.gz
+classes/android/graphics/RecordingCanvas.members.trap.gz
+classes/java/lang/String.members.trap.gz

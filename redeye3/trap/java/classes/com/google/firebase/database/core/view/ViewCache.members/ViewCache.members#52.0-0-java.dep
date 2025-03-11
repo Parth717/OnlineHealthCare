@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\google\firebase\database\core\view\ViewCache.members\ViewCache.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/com/google/firebase/database/core/view/ViewCache.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/com/google/firebase/database/snapshot/Node.members.trap.gz
+classes/com/google/firebase/database/core/view/CacheNode.members.trap.gz
+classes/com/google/firebase/database/snapshot/IndexedNode.members.trap.gz

@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\recyclerview\widget\RecyclerViewAccessibilityDelegate.members\RecyclerViewAccessibilityDelegate.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/recyclerview/widget/RecyclerViewAccessibilityDelegate.members.trap.gz
+classes/androidx/core/view/AccessibilityDelegateCompat.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz
+classes/android/view/View.members.trap.gz
+classes/android/view/accessibility/AccessibilityEvent.members.trap.gz
+classes/androidx/core/view/accessibility/AccessibilityNodeInfoCompat.members.trap.gz
+classes/android/os/Bundle.members.trap.gz
+classes/androidx/recyclerview/widget/RecyclerView.members.trap.gz

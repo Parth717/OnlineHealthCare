@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\os\Vibrator.members\Vibrator.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/os/Vibrator.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/android/os/VibrationEffect.members.trap.gz
+classes/android/media/AudioAttributes.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/java/lang/String.members.trap.gz

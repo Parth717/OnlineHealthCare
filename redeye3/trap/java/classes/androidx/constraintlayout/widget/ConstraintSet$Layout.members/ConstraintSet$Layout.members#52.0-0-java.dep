@@ -1,0 +1,16 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\constraintlayout\widget\ConstraintSet$Layout.members\ConstraintSet$Layout.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/constraintlayout/widget/ConstraintSet$Layout.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/constraintlayout/widget/ConstraintSet.members.trap.gz
+classes/androidx/constraintlayout/motion/widget/MotionScene.members.trap.gz
+classes/java/lang/StringBuilder.members.trap.gz
+classes/android/content/Context.members.trap.gz
+classes/android/util/AttributeSet.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz

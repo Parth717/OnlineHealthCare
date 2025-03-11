@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\appcompat\widget\Toolbar$OnMenuItemClickListener.members\Toolbar$OnMenuItemClickListener.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/appcompat/widget/Toolbar$OnMenuItemClickListener.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/appcompat/widget/Toolbar.members.trap.gz
+classes/android/view/MenuItem.members.trap.gz

@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\recyclerview\widget\RecyclerView$OnFlingListener.members\RecyclerView$OnFlingListener.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/recyclerview/widget/RecyclerView$OnFlingListener.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/recyclerview/widget/RecyclerView.members.trap.gz

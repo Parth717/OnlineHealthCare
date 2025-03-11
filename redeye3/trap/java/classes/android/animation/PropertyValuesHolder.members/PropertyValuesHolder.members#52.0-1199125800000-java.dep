@@ -1,0 +1,20 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\animation\PropertyValuesHolder.members\PropertyValuesHolder.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/animation/PropertyValuesHolder.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/util/Property.members.trap.gz
+classes/android/animation/TypeEvaluator.members.trap.gz
+classes/android/animation/TypeConverter.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/android/animation/Keyframe.members.trap.gz
+classes/android/graphics/Path.members.trap.gz
+classes/android/graphics/PointF.members.trap.gz
+classes/java/lang/SafeVarargs.members.trap.gz
+classes/java/lang/Float.members.trap.gz
+classes/java/lang/Integer.members.trap.gz

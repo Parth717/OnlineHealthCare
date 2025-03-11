@@ -1,0 +1,21 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\fragment\app\FragmentManager$OpGenerator.members\FragmentManager$OpGenerator.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/fragment/app/FragmentManager$OpGenerator.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/fragment/app/FragmentManager.members.trap.gz
+classes/androidx/fragment/app/BackStackRecord.members.trap.gz
+classes/java/util/ArrayList.members.trap.gz
+classes/java/util/AbstractList.members.trap.gz
+classes/java/util/AbstractCollection.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/RandomAccess.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/lang/Boolean.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz

@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\google\firebase\database\snapshot\RangeMerge.members\RangeMerge.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/com/google/firebase/database/snapshot/RangeMerge.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/com/google/firebase/database/core/Path.members.trap.gz
+classes/com/google/firebase/database/snapshot/Node.members.trap.gz
+classes/com/google/firebase/database/connection/RangeMerge.members.trap.gz

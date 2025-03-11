@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\database\sqlite\SQLiteProgram.members\SQLiteProgram.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/database/sqlite/SQLiteProgram.members.trap.gz
+classes/android/database/sqlite/SQLiteClosable.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz

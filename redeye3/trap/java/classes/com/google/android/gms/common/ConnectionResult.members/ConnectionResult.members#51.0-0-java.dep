@@ -1,0 +1,25 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\google\android\gms\common\ConnectionResult.members\ConnectionResult.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/com/google/android/gms/common/ConnectionResult.members.trap.gz
+classes/com/google/android/gms/common/internal/safeparcel/AbstractSafeParcelable.members.trap.gz
+classes/com/google/android/gms/common/internal/safeparcel/SafeParcelable$Class.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/annotation/Nullable.members.trap.gz
+classes/android/os/Parcel.members.trap.gz
+classes/android/app/Activity.members.trap.gz
+classes/android/content/IntentSender$SendIntentException.members.trap.gz
+classes/android/app/PendingIntent.members.trap.gz
+classes/com/google/android/gms/common/internal/safeparcel/SafeParcelable$Constructor.members.trap.gz
+classes/com/google/android/gms/common/internal/safeparcel/SafeParcelable$Param.members.trap.gz
+classes/com/google/android/gms/common/internal/safeparcel/SafeParcelable$VersionField.members.trap.gz
+classes/android/os/Parcelable$Creator.members.trap.gz
+classes/android/os/Parcelable.members.trap.gz
+classes/com/google/android/gms/common/annotation/KeepForSdk.members.trap.gz
+classes/com/google/android/gms/common/internal/ShowFirstParty.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz

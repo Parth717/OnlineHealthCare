@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\core\view\accessibility\AccessibilityNodeInfoCompat$CollectionInfoCompat.members\AccessibilityNodeInfoCompat$CollectionInfoCompat.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/core/view/accessibility/AccessibilityNodeInfoCompat$CollectionInfoCompat.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/core/view/accessibility/AccessibilityNodeInfoCompat.members.trap.gz

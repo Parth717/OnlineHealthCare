@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\google\firebase\database\Transaction$Handler.members\Transaction$Handler.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/com/google/firebase/database/Transaction$Handler.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/com/google/firebase/database/Transaction.members.trap.gz
+classes/com/google/firebase/database/DatabaseError.members.trap.gz
+classes/com/google/firebase/database/DataSnapshot.members.trap.gz
+classes/androidx/annotation/Nullable.members.trap.gz
+classes/com/google/firebase/database/MutableData.members.trap.gz
+classes/com/google/firebase/database/Transaction$Result.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz

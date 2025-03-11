@@ -1,0 +1,19 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\google\firebase\auth\PhoneAuthOptions$Builder.members\PhoneAuthOptions$Builder.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/com/google/firebase/auth/PhoneAuthOptions$Builder.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/com/google/firebase/auth/PhoneAuthOptions.members.trap.gz
+classes/com/google/firebase/auth/FirebaseAuth.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz
+classes/java/lang/Long.members.trap.gz
+classes/java/util/concurrent/TimeUnit.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/com/google/firebase/auth/MultiFactorSession.members.trap.gz
+classes/com/google/firebase/auth/PhoneMultiFactorInfo.members.trap.gz
+classes/com/google/firebase/auth/PhoneAuthProvider$ForceResendingToken.members.trap.gz
+classes/com/google/firebase/auth/PhoneAuthProvider$OnVerificationStateChangedCallbacks.members.trap.gz
+classes/android/app/Activity.members.trap.gz

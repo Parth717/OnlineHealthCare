@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\content\BroadcastReceiver$PendingResult.members\BroadcastReceiver$PendingResult.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/content/BroadcastReceiver$PendingResult.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/content/BroadcastReceiver.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/os/Bundle.members.trap.gz

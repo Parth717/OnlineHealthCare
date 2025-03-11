@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\view\SurfaceHolder.members\SurfaceHolder.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/view/SurfaceHolder.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/view/Surface.members.trap.gz
+classes/android/graphics/Rect.members.trap.gz
+classes/android/graphics/Canvas.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/view/SurfaceHolder$Callback.members.trap.gz

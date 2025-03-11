@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\constraintlayout\motion\widget\MotionLayout$TransitionListener.members\MotionLayout$TransitionListener.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/constraintlayout/motion/widget/MotionLayout$TransitionListener.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/constraintlayout/motion/widget/MotionLayout.members.trap.gz

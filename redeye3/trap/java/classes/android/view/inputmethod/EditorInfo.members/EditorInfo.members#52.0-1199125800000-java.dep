@@ -1,0 +1,22 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\view\inputmethod\EditorInfo.members\EditorInfo.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/view/inputmethod/EditorInfo.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/text/InputType.members.trap.gz
+classes/android/os/Parcelable.members.trap.gz
+classes/android/os/Parcel.members.trap.gz
+classes/android/util/Printer.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/view/inputmethod/SurroundingText.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz
+classes/java/lang/CharSequence.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/android/os/LocaleList.members.trap.gz
+classes/android/os/Bundle.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/android/os/Parcelable$Creator.members.trap.gz

@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\java\util\regex\Matcher.members\Matcher.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/java/util/regex/Matcher.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/util/regex/MatchResult.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/androidx/annotation/RecentlyNonNull.members.trap.gz
+classes/java/lang/StringBuffer.members.trap.gz
+classes/androidx/annotation/RecentlyNullable.members.trap.gz
+classes/java/lang/CharSequence.members.trap.gz
+classes/java/util/regex/Pattern.members.trap.gz

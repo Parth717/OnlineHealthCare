@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\core\widget\TintableImageSourceView.members\TintableImageSourceView.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/core/widget/TintableImageSourceView.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/annotation/RestrictTo.members.trap.gz
+classes/androidx/annotation/RestrictTo$Scope.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/android/graphics/PorterDuff$Mode.members.trap.gz
+classes/androidx/annotation/Nullable.members.trap.gz
+classes/android/content/res/ColorStateList.members.trap.gz

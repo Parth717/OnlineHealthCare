@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\google\firebase\database\core\view\View$OperationResult.members\View$OperationResult.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/com/google/firebase/database/core/view/View$OperationResult.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/com/google/firebase/database/core/view/View.members.trap.gz
+classes/com/google/firebase/database/core/view/DataEvent.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/com/google/firebase/database/core/view/Change.members.trap.gz

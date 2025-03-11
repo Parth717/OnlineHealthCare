@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\fragment\app\FragmentManager$BackStackEntry.members\FragmentManager$BackStackEntry.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/fragment/app/FragmentManager$BackStackEntry.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/fragment/app/FragmentManager.members.trap.gz
+classes/java/lang/CharSequence.members.trap.gz
+classes/androidx/annotation/Nullable.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/androidx/annotation/StringRes.members.trap.gz

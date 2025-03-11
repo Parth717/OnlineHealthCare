@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\recyclerview\widget\ItemTouchHelper$RecoverAnimation.members\ItemTouchHelper$RecoverAnimation.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/recyclerview/widget/ItemTouchHelper$RecoverAnimation.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/animation/Animator$AnimatorListener.members.trap.gz
+classes/androidx/recyclerview/widget/ItemTouchHelper.members.trap.gz
+classes/android/animation/Animator.members.trap.gz
+classes/androidx/recyclerview/widget/RecyclerView$ViewHolder.members.trap.gz

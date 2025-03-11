@@ -1,0 +1,27 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\recyclerview\widget\ItemTouchHelper.members\ItemTouchHelper.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/recyclerview/widget/ItemTouchHelper.members.trap.gz
+classes/androidx/recyclerview/widget/RecyclerView$ItemDecoration.members.trap.gz
+classes/androidx/recyclerview/widget/RecyclerView$OnChildAttachStateChangeListener.members.trap.gz
+classes/android/view/View.members.trap.gz
+classes/android/view/MotionEvent.members.trap.gz
+classes/androidx/recyclerview/widget/ItemTouchHelper$RecoverAnimation.members.trap.gz
+classes/androidx/recyclerview/widget/RecyclerView$ViewHolder.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz
+classes/android/graphics/Rect.members.trap.gz
+classes/androidx/recyclerview/widget/RecyclerView.members.trap.gz
+classes/androidx/recyclerview/widget/RecyclerView$State.members.trap.gz
+classes/androidx/annotation/Nullable.members.trap.gz
+classes/android/graphics/Canvas.members.trap.gz
+classes/androidx/recyclerview/widget/ItemTouchHelper$Callback.members.trap.gz
+classes/androidx/core/view/GestureDetectorCompat.members.trap.gz
+classes/android/view/VelocityTracker.members.trap.gz
+classes/java/lang/Runnable.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/lang/Object.members.trap.gz

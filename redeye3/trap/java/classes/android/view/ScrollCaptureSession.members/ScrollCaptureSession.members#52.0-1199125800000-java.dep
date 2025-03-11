@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\view\ScrollCaptureSession.members\ScrollCaptureSession.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/view/ScrollCaptureSession.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/graphics/Point.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/android/graphics/Rect.members.trap.gz
+classes/android/view/Surface.members.trap.gz

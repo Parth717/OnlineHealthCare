@@ -1,0 +1,16 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\database\ContentObserver.members\ContentObserver.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/database/ContentObserver.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/net/Uri.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/os/Handler.members.trap.gz

@@ -1,0 +1,25 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\google\android\gms\tasks\Task.members\Task.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/com/google/android/gms/tasks/Task.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Class.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/lang/reflect/GenericDeclaration.members.trap.gz
+classes/java/lang/reflect/Type.members.trap.gz
+classes/java/lang/reflect/AnnotatedElement.members.trap.gz
+classes/java/lang/Throwable.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz
+classes/java/lang/Exception.members.trap.gz
+classes/androidx/annotation/Nullable.members.trap.gz
+classes/java/util/concurrent/Executor.members.trap.gz
+classes/com/google/android/gms/tasks/SuccessContinuation.members.trap.gz
+classes/com/google/android/gms/tasks/Continuation.members.trap.gz
+classes/com/google/android/gms/tasks/OnSuccessListener.members.trap.gz
+classes/android/app/Activity.members.trap.gz
+classes/com/google/android/gms/tasks/OnFailureListener.members.trap.gz
+classes/com/google/android/gms/tasks/OnCompleteListener.members.trap.gz
+classes/com/google/android/gms/tasks/OnCanceledListener.members.trap.gz

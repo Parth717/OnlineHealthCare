@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\example\ohc\Details.members\Details.members#0.0-1693740838527-java.trap.gz
+
+TRAPS
+classes/com/example/ohc/Details.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz

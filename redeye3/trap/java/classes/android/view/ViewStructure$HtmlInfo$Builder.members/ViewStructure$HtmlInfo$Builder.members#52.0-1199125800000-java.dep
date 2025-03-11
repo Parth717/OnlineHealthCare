@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\view\ViewStructure$HtmlInfo$Builder.members\ViewStructure$HtmlInfo$Builder.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/view/ViewStructure$HtmlInfo$Builder.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/view/ViewStructure$HtmlInfo.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz

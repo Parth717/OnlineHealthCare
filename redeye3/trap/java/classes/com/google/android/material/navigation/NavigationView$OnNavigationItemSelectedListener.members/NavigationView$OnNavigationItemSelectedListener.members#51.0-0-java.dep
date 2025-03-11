@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\google\android\material\navigation\NavigationView$OnNavigationItemSelectedListener.members\NavigationView$OnNavigationItemSelectedListener.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/com/google/android/material/navigation/NavigationView$OnNavigationItemSelectedListener.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/com/google/android/material/navigation/NavigationView.members.trap.gz
+classes/android/view/MenuItem.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz

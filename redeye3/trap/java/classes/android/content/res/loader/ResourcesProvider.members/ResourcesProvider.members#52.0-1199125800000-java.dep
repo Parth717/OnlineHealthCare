@@ -1,0 +1,18 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\content\res\loader\ResourcesProvider.members\ResourcesProvider.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/content/res/loader/ResourcesProvider.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/AutoCloseable.members.trap.gz
+classes/java/io/Closeable.members.trap.gz
+classes/java/lang/Throwable.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/content/res/loader/AssetsProvider.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz
+classes/java/io/IOException.members.trap.gz
+classes/android/content/Context.members.trap.gz
+classes/android/os/ParcelFileDescriptor.members.trap.gz

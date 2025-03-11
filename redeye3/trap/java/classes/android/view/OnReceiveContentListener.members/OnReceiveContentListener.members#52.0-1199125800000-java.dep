@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\view\OnReceiveContentListener.members\OnReceiveContentListener.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/view/OnReceiveContentListener.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/view/View.members.trap.gz
+classes/android/view/ContentInfo.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz

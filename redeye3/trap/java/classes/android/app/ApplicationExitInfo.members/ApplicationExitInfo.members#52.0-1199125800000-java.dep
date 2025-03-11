@@ -1,0 +1,19 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\app\ApplicationExitInfo.members\ApplicationExitInfo.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/app/ApplicationExitInfo.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/os/Parcelable.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/os/Parcel.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/java/io/InputStream.members.trap.gz
+classes/java/io/IOException.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/android/os/UserHandle.members.trap.gz
+classes/android/os/Parcelable$Creator.members.trap.gz

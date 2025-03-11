@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\recyclerview\widget\RecyclerView$EdgeEffectFactory.members\RecyclerView$EdgeEffectFactory.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/recyclerview/widget/RecyclerView$EdgeEffectFactory.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/recyclerview/widget/RecyclerView.members.trap.gz
+classes/android/widget/EdgeEffect.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz

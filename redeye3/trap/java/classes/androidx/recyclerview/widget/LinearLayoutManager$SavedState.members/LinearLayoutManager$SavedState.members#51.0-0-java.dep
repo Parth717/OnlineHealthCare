@@ -1,0 +1,18 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\recyclerview\widget\LinearLayoutManager$SavedState.members\LinearLayoutManager$SavedState.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/recyclerview/widget/LinearLayoutManager$SavedState.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/os/Parcelable.members.trap.gz
+classes/androidx/recyclerview/widget/LinearLayoutManager.members.trap.gz
+classes/android/annotation/SuppressLint.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/androidx/annotation/RestrictTo.members.trap.gz
+classes/androidx/annotation/RestrictTo$Scope.members.trap.gz
+classes/android/os/Parcel.members.trap.gz
+classes/android/os/Parcelable$Creator.members.trap.gz

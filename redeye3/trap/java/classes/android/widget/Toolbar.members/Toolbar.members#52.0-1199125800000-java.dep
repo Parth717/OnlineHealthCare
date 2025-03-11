@@ -1,0 +1,20 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\widget\Toolbar.members\Toolbar.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/widget/Toolbar.members.trap.gz
+classes/android/view/ViewGroup.members.trap.gz
+classes/android/view/ViewGroup$LayoutParams.members.trap.gz
+classes/android/widget/Toolbar$LayoutParams.members.trap.gz
+classes/android/util/AttributeSet.members.trap.gz
+classes/android/view/MotionEvent.members.trap.gz
+classes/android/os/Parcelable.members.trap.gz
+classes/android/widget/Toolbar$OnMenuItemClickListener.members.trap.gz
+classes/android/graphics/drawable/Drawable.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz
+classes/android/view/Menu.members.trap.gz
+classes/java/lang/CharSequence.members.trap.gz
+classes/android/view/View$OnClickListener.members.trap.gz
+classes/android/content/Context.members.trap.gz

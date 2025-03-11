@@ -1,0 +1,16 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\view\Menu.members\Menu.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/view/Menu.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/view/KeyEvent.members.trap.gz
+classes/android/view/MenuItem.members.trap.gz
+classes/android/content/ComponentName.members.trap.gz
+classes/android/content/Intent.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/android/view/SubMenu.members.trap.gz
+classes/java/lang/CharSequence.members.trap.gz

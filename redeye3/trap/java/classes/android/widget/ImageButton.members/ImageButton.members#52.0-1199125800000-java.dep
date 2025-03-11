@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\widget\ImageButton.members\ImageButton.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/widget/ImageButton.members.trap.gz
+classes/android/widget/ImageView.members.trap.gz
+classes/android/widget/RemoteViews$RemoteView.members.trap.gz
+classes/android/view/MotionEvent.members.trap.gz
+classes/android/view/PointerIcon.members.trap.gz
+classes/java/lang/CharSequence.members.trap.gz
+classes/android/content/Context.members.trap.gz
+classes/android/util/AttributeSet.members.trap.gz

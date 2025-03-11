@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\graphics\drawable\Icon$OnDrawableLoadedListener.members\Icon$OnDrawableLoadedListener.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/graphics/drawable/Icon$OnDrawableLoadedListener.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/graphics/drawable/Icon.members.trap.gz
+classes/android/graphics/drawable/Drawable.members.trap.gz

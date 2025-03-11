@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\appcompat\graphics\drawable\DrawerArrowDrawable.members\DrawerArrowDrawable.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/appcompat/graphics/drawable/DrawerArrowDrawable.members.trap.gz
+classes/android/graphics/drawable/Drawable.members.trap.gz
+classes/android/graphics/Paint.members.trap.gz
+classes/androidx/annotation/FloatRange.members.trap.gz
+classes/android/graphics/ColorFilter.members.trap.gz
+classes/android/graphics/Canvas.members.trap.gz
+classes/androidx/annotation/ColorInt.members.trap.gz
+classes/android/content/Context.members.trap.gz

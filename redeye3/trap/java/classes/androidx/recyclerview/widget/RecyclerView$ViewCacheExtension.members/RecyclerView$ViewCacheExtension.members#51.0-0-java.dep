@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\recyclerview\widget\RecyclerView$ViewCacheExtension.members\RecyclerView$ViewCacheExtension.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/recyclerview/widget/RecyclerView$ViewCacheExtension.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/recyclerview/widget/RecyclerView.members.trap.gz
+classes/androidx/recyclerview/widget/RecyclerView$Recycler.members.trap.gz
+classes/android/view/View.members.trap.gz
+classes/androidx/annotation/Nullable.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz

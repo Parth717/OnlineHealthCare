@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\content\SharedPreferences$OnSharedPreferenceChangeListener.members\SharedPreferences$OnSharedPreferenceChangeListener.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/content/SharedPreferences$OnSharedPreferenceChangeListener.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/content/SharedPreferences.members.trap.gz
+classes/java/lang/String.members.trap.gz

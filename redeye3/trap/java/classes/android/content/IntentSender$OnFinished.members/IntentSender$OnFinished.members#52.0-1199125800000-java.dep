@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\content\IntentSender$OnFinished.members\IntentSender$OnFinished.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/content/IntentSender$OnFinished.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/content/IntentSender.members.trap.gz
+classes/android/content/Intent.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/os/Bundle.members.trap.gz

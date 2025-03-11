@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\xml\sax\DTDHandler.members\DTDHandler.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/org/xml/sax/DTDHandler.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/xml/sax/SAXException.members.trap.gz

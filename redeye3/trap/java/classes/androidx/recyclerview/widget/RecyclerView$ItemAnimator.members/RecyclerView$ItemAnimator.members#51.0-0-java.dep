@@ -1,0 +1,19 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\recyclerview\widget\RecyclerView$ItemAnimator.members\RecyclerView$ItemAnimator.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/recyclerview/widget/RecyclerView$ItemAnimator.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/recyclerview/widget/RecyclerView.members.trap.gz
+classes/androidx/recyclerview/widget/RecyclerView$ItemAnimator$ItemHolderInfo.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz
+classes/androidx/recyclerview/widget/RecyclerView$ViewHolder.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/androidx/recyclerview/widget/RecyclerView$ItemAnimator$ItemAnimatorFinishedListener.members.trap.gz
+classes/androidx/annotation/Nullable.members.trap.gz
+classes/androidx/recyclerview/widget/RecyclerView$State.members.trap.gz
+classes/androidx/recyclerview/widget/RecyclerView$ItemAnimator$ItemAnimatorListener.members.trap.gz

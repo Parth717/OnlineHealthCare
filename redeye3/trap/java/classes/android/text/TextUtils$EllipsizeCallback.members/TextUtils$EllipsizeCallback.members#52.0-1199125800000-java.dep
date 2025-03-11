@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\text\TextUtils$EllipsizeCallback.members\TextUtils$EllipsizeCallback.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/text/TextUtils$EllipsizeCallback.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/text/TextUtils.members.trap.gz

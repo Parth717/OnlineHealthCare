@@ -1,0 +1,19 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\view\textclassifier\TextClassifierEvent.members\TextClassifierEvent.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/view/textclassifier/TextClassifierEvent.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/os/Parcelable.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/os/Bundle.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/android/icu/util/ULocale.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/android/view/textclassifier/TextClassificationContext.members.trap.gz
+classes/android/os/Parcel.members.trap.gz
+classes/android/os/Parcelable$Creator.members.trap.gz

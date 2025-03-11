@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\hardware\SensorListener.members\SensorListener.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/hardware/SensorListener.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz

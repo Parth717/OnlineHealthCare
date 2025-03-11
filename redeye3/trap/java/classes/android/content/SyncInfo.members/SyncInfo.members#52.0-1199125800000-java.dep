@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\content\SyncInfo.members\SyncInfo.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/content/SyncInfo.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/os/Parcelable.members.trap.gz
+classes/android/os/Parcel.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/accounts/Account.members.trap.gz

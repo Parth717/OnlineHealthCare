@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\os\Debug$MemoryInfo.members\Debug$MemoryInfo.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/os/Debug$MemoryInfo.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/os/Parcelable.members.trap.gz
+classes/android/os/Debug.members.trap.gz
+classes/android/os/Parcel.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/os/Parcelable$Creator.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz

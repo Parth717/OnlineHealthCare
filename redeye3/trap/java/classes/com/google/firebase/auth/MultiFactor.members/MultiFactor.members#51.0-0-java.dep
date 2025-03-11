@@ -1,0 +1,19 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\google\firebase\auth\MultiFactor.members\MultiFactor.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/com/google/firebase/auth/MultiFactor.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/com/google/firebase/auth/MultiFactorInfo.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/com/google/android/gms/tasks/Task.members.trap.gz
+classes/java/lang/Void.members.trap.gz
+classes/com/google/firebase/auth/MultiFactorSession.members.trap.gz
+classes/com/google/firebase/auth/MultiFactorAssertion.members.trap.gz
+classes/androidx/annotation/Nullable.members.trap.gz

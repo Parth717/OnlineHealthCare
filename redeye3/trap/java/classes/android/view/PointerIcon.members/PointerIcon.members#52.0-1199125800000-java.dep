@@ -1,0 +1,16 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\view\PointerIcon.members\PointerIcon.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/view/PointerIcon.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/os/Parcelable.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz
+classes/android/os/Parcel.members.trap.gz
+classes/android/content/res/Resources.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/android/graphics/Bitmap.members.trap.gz
+classes/android/content/Context.members.trap.gz
+classes/android/os/Parcelable$Creator.members.trap.gz

@@ -1,0 +1,19 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\constraintlayout\motion\widget\MotionScene$Transition.members\MotionScene$Transition.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/constraintlayout/motion/widget/MotionScene$Transition.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/constraintlayout/motion/widget/MotionScene.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/content/Context.members.trap.gz
+classes/org/xmlpull/v1/XmlPullParser.members.trap.gz
+classes/androidx/constraintlayout/motion/widget/TouchResponse.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/androidx/constraintlayout/motion/widget/MotionScene$Transition$TransitionOnClick.members.trap.gz
+classes/androidx/constraintlayout/motion/widget/KeyFrames.members.trap.gz
+classes/androidx/constraintlayout/motion/widget/OnSwipe.members.trap.gz

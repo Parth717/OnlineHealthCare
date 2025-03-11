@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\google\firebase\database\core\RepoInfo.members\RepoInfo.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/com/google/firebase/database/core/RepoInfo.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/com/google/firebase/emulators/EmulatedServiceSettings.members.trap.gz
+classes/com/google/firebase/database/annotations/Nullable.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/net/URI.members.trap.gz

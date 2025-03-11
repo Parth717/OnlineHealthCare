@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\database\sqlite\SQLiteException.members\SQLiteException.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/database/sqlite/SQLiteException.members.trap.gz
+classes/android/database/SQLException.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Throwable.members.trap.gz

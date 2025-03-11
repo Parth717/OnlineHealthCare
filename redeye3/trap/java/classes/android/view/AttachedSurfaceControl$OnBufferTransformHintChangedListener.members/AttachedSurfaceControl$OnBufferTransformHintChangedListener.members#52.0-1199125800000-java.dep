@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\view\AttachedSurfaceControl$OnBufferTransformHintChangedListener.members\AttachedSurfaceControl$OnBufferTransformHintChangedListener.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/view/AttachedSurfaceControl$OnBufferTransformHintChangedListener.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/view/AttachedSurfaceControl.members.trap.gz

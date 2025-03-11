@@ -1,0 +1,19 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\appcompat\widget\ActionMenuView$LayoutParams.members\ActionMenuView$LayoutParams.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/appcompat/widget/ActionMenuView$LayoutParams.members.trap.gz
+classes/androidx/appcompat/widget/LinearLayoutCompat$LayoutParams.members.trap.gz
+classes/androidx/appcompat/widget/ActionMenuView.members.trap.gz
+classes/android/view/ViewGroup$LayoutParams.members.trap.gz
+classes/android/content/Context.members.trap.gz
+classes/android/util/AttributeSet.members.trap.gz
+classes/android/view/ViewDebug$ExportedProperty.members.trap.gz
+classes/android/view/ViewDebug$IntToString.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/android/view/ViewDebug$FlagToString.members.trap.gz
+classes/java/lang/String.members.trap.gz

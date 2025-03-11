@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\media\session\MediaSessionManager$OnSession2TokensChangedListener.members\MediaSessionManager$OnSession2TokensChangedListener.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/media/session/MediaSessionManager$OnSession2TokensChangedListener.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/media/session/MediaSessionManager.members.trap.gz
+classes/android/media/Session2Token.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz

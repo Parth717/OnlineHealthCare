@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\view\WindowId$FocusObserver.members\WindowId$FocusObserver.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/view/WindowId$FocusObserver.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/view/WindowId.members.trap.gz

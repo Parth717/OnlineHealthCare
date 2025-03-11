@@ -1,0 +1,19 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\graphics\Path.members\Path.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/graphics/Path.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/android/graphics/Matrix.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz
+classes/android/graphics/Path$Direction.members.trap.gz
+classes/android/graphics/RectF.members.trap.gz
+classes/android/graphics/Path$FillType.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/graphics/Path$Op.members.trap.gz

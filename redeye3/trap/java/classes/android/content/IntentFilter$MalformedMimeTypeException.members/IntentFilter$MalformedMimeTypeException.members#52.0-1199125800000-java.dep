@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\content\IntentFilter$MalformedMimeTypeException.members\IntentFilter$MalformedMimeTypeException.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/content/IntentFilter$MalformedMimeTypeException.members.trap.gz
+classes/android/util/AndroidException.members.trap.gz
+classes/android/content/IntentFilter.members.trap.gz
+classes/java/lang/String.members.trap.gz

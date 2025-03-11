@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\constraintlayout\widget\SharedValues$SharedValuesListener.members\SharedValues$SharedValuesListener.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/constraintlayout/widget/SharedValues$SharedValuesListener.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/constraintlayout/widget/SharedValues.members.trap.gz

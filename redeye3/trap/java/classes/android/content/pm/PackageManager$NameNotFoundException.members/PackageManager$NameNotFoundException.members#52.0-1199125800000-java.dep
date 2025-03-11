@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\content\pm\PackageManager$NameNotFoundException.members\PackageManager$NameNotFoundException.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/content/pm/PackageManager$NameNotFoundException.members.trap.gz
+classes/android/util/AndroidException.members.trap.gz
+classes/android/content/pm/PackageManager.members.trap.gz
+classes/java/lang/String.members.trap.gz

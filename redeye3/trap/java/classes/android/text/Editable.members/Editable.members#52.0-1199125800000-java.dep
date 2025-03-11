@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\text\Editable.members\Editable.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/text/Editable.members.trap.gz
+classes/java/lang/CharSequence.members.trap.gz
+classes/android/text/GetChars.members.trap.gz
+classes/android/text/Spannable.members.trap.gz
+classes/java/lang/Appendable.members.trap.gz
+classes/android/text/InputFilter.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz

@@ -1,0 +1,22 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\content\res\ColorStateList.members\ColorStateList.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/content/res/ColorStateList.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/os/Parcelable.members.trap.gz
+classes/android/os/Parcel.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/android/content/res/Resources.members.trap.gz
+classes/org/xmlpull/v1/XmlPullParser.members.trap.gz
+classes/android/content/res/Resources$Theme.members.trap.gz
+classes/java/io/IOException.members.trap.gz
+classes/org/xmlpull/v1/XmlPullParserException.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/android/os/Parcelable$Creator.members.trap.gz

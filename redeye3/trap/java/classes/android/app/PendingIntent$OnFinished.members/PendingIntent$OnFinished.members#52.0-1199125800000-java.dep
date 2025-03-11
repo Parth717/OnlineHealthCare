@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\app\PendingIntent$OnFinished.members\PendingIntent$OnFinished.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/app/PendingIntent$OnFinished.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/app/PendingIntent.members.trap.gz
+classes/android/content/Intent.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/os/Bundle.members.trap.gz

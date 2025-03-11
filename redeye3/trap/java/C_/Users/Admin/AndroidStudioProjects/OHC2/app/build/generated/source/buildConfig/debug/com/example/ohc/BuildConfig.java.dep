@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+C_\Users\Admin\AndroidStudioProjects\OHC2\app\build\generated\source\buildConfig\debug\com\example\ohc\BuildConfig.java.trap.gz
+
+TRAPS
+classes/com/example/ohc/BuildConfig.members.trap.gz
+classes/java/lang/Boolean.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Object.members.trap.gz

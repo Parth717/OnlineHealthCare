@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\google\firebase\database\core\UserWriteRecord.members\UserWriteRecord.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/com/google/firebase/database/core/UserWriteRecord.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/com/google/firebase/database/core/CompoundWrite.members.trap.gz
+classes/com/google/firebase/database/snapshot/Node.members.trap.gz
+classes/com/google/firebase/database/core/Path.members.trap.gz

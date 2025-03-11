@@ -1,0 +1,19 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\os\PersistableBundle.members\PersistableBundle.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/os/PersistableBundle.members.trap.gz
+classes/android/os/BaseBundle.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/android/os/Parcelable.members.trap.gz
+classes/java/io/InputStream.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/java/io/IOException.members.trap.gz
+classes/java/io/OutputStream.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/os/Parcel.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/os/Parcelable$Creator.members.trap.gz

@@ -1,0 +1,25 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\view\textclassifier\TextClassifier.members\TextClassifier.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/view/textclassifier/TextClassifier.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/view/textclassifier/TextClassifierEvent.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/android/view/textclassifier/SelectionEvent.members.trap.gz
+classes/android/view/textclassifier/ConversationActions$Request.members.trap.gz
+classes/android/view/textclassifier/ConversationActions.members.trap.gz
+classes/android/view/textclassifier/TextLanguage$Request.members.trap.gz
+classes/android/view/textclassifier/TextLanguage.members.trap.gz
+classes/android/view/textclassifier/TextLinks$Request.members.trap.gz
+classes/android/view/textclassifier/TextLinks.members.trap.gz
+classes/java/lang/CharSequence.members.trap.gz
+classes/android/os/LocaleList.members.trap.gz
+classes/android/view/textclassifier/TextClassification.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz
+classes/android/view/textclassifier/TextClassification$Request.members.trap.gz
+classes/android/view/textclassifier/TextSelection.members.trap.gz
+classes/android/view/textclassifier/TextSelection$Request.members.trap.gz
+classes/java/lang/String.members.trap.gz

@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\view\KeyEvent$DispatcherState.members\KeyEvent$DispatcherState.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/view/KeyEvent$DispatcherState.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/view/KeyEvent.members.trap.gz

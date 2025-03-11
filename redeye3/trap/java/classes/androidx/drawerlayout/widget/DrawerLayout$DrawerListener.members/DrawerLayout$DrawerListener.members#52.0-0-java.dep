@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\drawerlayout\widget\DrawerLayout$DrawerListener.members\DrawerLayout$DrawerListener.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/drawerlayout/widget/DrawerLayout$DrawerListener.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/drawerlayout/widget/DrawerLayout.members.trap.gz
+classes/android/view/View.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz

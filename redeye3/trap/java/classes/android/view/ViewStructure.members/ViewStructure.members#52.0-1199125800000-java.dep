@@ -1,0 +1,21 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\view\ViewStructure.members\ViewStructure.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/view/ViewStructure.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/view/ViewStructure$HtmlInfo.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/view/ViewStructure$HtmlInfo$Builder.members.trap.gz
+classes/android/os/LocaleList.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/lang/CharSequence.members.trap.gz
+classes/android/view/autofill/AutofillValue.members.trap.gz
+classes/android/view/autofill/AutofillId.members.trap.gz
+classes/android/os/Bundle.members.trap.gz
+classes/android/graphics/Matrix.members.trap.gz

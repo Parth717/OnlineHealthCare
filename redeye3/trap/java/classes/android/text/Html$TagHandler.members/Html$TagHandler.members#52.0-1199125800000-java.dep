@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\text\Html$TagHandler.members\Html$TagHandler.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/text/Html$TagHandler.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/text/Html.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/text/Editable.members.trap.gz
+classes/org/xml/sax/XMLReader.members.trap.gz

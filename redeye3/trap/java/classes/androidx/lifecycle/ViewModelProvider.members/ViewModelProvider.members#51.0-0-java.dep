@@ -1,0 +1,20 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\lifecycle\ViewModelProvider.members\ViewModelProvider.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/lifecycle/ViewModelProvider.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Class.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/lang/reflect/GenericDeclaration.members.trap.gz
+classes/java/lang/reflect/Type.members.trap.gz
+classes/java/lang/reflect/AnnotatedElement.members.trap.gz
+classes/androidx/lifecycle/ViewModel.members.trap.gz
+classes/androidx/annotation/MainThread.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz
+classes/androidx/lifecycle/ViewModelStore.members.trap.gz
+classes/androidx/lifecycle/ViewModelProvider$Factory.members.trap.gz
+classes/androidx/lifecycle/ViewModelStoreOwner.members.trap.gz

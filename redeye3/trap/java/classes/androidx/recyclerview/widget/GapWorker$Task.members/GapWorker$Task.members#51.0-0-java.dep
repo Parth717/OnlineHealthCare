@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\recyclerview\widget\GapWorker$Task.members\GapWorker$Task.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/recyclerview/widget/GapWorker$Task.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/recyclerview/widget/GapWorker.members.trap.gz
+classes/androidx/recyclerview/widget/RecyclerView.members.trap.gz

@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\recyclerview\widget\RecyclerView$RecycledViewPool.members\RecyclerView$RecycledViewPool.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/recyclerview/widget/RecyclerView$RecycledViewPool.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/recyclerview/widget/RecyclerView.members.trap.gz
+classes/androidx/recyclerview/widget/RecyclerView$Adapter.members.trap.gz
+classes/androidx/recyclerview/widget/RecyclerView$ViewHolder.members.trap.gz
+classes/androidx/annotation/Nullable.members.trap.gz
+classes/androidx/recyclerview/widget/RecyclerView$RecycledViewPool$ScrapData.members.trap.gz
+classes/android/util/SparseArray.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz

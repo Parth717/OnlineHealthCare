@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\text\method\TransformationMethod.members\TransformationMethod.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/text/method/TransformationMethod.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/view/View.members.trap.gz
+classes/java/lang/CharSequence.members.trap.gz
+classes/android/graphics/Rect.members.trap.gz

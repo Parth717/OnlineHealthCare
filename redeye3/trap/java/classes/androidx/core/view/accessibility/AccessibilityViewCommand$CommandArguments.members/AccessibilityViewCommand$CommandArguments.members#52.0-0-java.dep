@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\core\view\accessibility\AccessibilityViewCommand$CommandArguments.members\AccessibilityViewCommand$CommandArguments.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/core/view/accessibility/AccessibilityViewCommand$CommandArguments.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/core/view/accessibility/AccessibilityViewCommand.members.trap.gz
+classes/android/os/Bundle.members.trap.gz
+classes/androidx/annotation/RestrictTo.members.trap.gz
+classes/androidx/annotation/RestrictTo$Scope.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz

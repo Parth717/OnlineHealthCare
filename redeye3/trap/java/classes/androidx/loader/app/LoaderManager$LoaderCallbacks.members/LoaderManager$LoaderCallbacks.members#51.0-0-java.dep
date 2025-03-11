@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\loader\app\LoaderManager$LoaderCallbacks.members\LoaderManager$LoaderCallbacks.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/loader/app/LoaderManager$LoaderCallbacks.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/loader/app/LoaderManager.members.trap.gz
+classes/androidx/loader/content/Loader.members.trap.gz
+classes/androidx/annotation/MainThread.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz
+classes/android/os/Bundle.members.trap.gz
+classes/androidx/annotation/Nullable.members.trap.gz

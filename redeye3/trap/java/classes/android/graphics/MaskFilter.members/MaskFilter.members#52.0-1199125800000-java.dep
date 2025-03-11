@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\graphics\MaskFilter.members\MaskFilter.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/graphics/MaskFilter.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Throwable.members.trap.gz

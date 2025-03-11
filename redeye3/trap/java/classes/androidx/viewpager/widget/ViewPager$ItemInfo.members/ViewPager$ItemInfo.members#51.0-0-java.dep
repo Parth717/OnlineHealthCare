@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\viewpager\widget\ViewPager$ItemInfo.members\ViewPager$ItemInfo.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/viewpager/widget/ViewPager$ItemInfo.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/viewpager/widget/ViewPager.members.trap.gz

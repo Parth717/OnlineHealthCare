@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\google\android\gms\tasks\OnFailureListener.members\OnFailureListener.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/com/google/android/gms/tasks/OnFailureListener.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Exception.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz

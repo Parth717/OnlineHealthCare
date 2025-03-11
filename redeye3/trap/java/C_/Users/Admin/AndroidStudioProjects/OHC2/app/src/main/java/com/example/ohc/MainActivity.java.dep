@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+C_\Users\Admin\AndroidStudioProjects\OHC2\app\src\main\java\com\example\ohc\MainActivity.java.trap.gz
+
+TRAPS
+classes/androidx/appcompat/app/AppCompatActivity.members.trap.gz
+classes/android/os/Bundle.members.trap.gz
+classes/com/example/ohc/MainActivity.members.trap.gz
+classes/java/lang/Override.members.trap.gz
+classes/androidx/fragment/app/FragmentActivity.members.trap.gz
+classes/com/example/ohc/R$layout.members.trap.gz
+classes/com/example/ohc/R.members.trap.gz

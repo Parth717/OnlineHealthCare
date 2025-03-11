@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\google\firebase\database\core\view\filter\NodeFilter.members\NodeFilter.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/com/google/firebase/database/core/view/filter/NodeFilter.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/com/google/firebase/database/snapshot/Index.members.trap.gz
+classes/com/google/firebase/database/snapshot/IndexedNode.members.trap.gz
+classes/com/google/firebase/database/snapshot/Node.members.trap.gz
+classes/com/google/firebase/database/core/view/filter/ChildChangeAccumulator.members.trap.gz
+classes/com/google/firebase/database/snapshot/ChildKey.members.trap.gz
+classes/com/google/firebase/database/core/Path.members.trap.gz
+classes/com/google/firebase/database/core/view/filter/NodeFilter$CompleteChildSource.members.trap.gz

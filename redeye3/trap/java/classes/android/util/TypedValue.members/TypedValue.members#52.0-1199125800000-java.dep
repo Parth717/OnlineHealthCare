@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\util\TypedValue.members\TypedValue.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/util/TypedValue.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/CharSequence.members.trap.gz
+classes/android/util/DisplayMetrics.members.trap.gz

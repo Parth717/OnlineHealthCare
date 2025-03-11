@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\app\ActivityManager$AppTask.members\ActivityManager$AppTask.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/app/ActivityManager$AppTask.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/app/ActivityManager.members.trap.gz
+classes/android/content/Context.members.trap.gz
+classes/android/content/Intent.members.trap.gz
+classes/android/os/Bundle.members.trap.gz
+classes/android/app/ActivityManager$RecentTaskInfo.members.trap.gz

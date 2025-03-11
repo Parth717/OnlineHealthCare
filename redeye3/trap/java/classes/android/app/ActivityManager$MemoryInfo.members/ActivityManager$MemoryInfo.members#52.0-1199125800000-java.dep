@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\app\ActivityManager$MemoryInfo.members\ActivityManager$MemoryInfo.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/app/ActivityManager$MemoryInfo.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/os/Parcelable.members.trap.gz
+classes/android/app/ActivityManager.members.trap.gz
+classes/android/os/Parcel.members.trap.gz
+classes/android/os/Parcelable$Creator.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz

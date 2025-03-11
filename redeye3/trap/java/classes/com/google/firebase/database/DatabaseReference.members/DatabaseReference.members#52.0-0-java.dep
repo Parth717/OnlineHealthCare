@@ -1,0 +1,22 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\google\firebase\database\DatabaseReference.members\DatabaseReference.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/com/google/firebase/database/DatabaseReference.members.trap.gz
+classes/com/google/firebase/database/Query.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/androidx/annotation/Nullable.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz
+classes/com/google/firebase/database/FirebaseDatabase.members.trap.gz
+classes/com/google/firebase/database/core/DatabaseConfig.members.trap.gz
+classes/com/google/firebase/database/Transaction$Handler.members.trap.gz
+classes/com/google/firebase/database/OnDisconnect.members.trap.gz
+classes/com/google/firebase/database/DatabaseReference$CompletionListener.members.trap.gz
+classes/com/google/android/gms/tasks/Task.members.trap.gz
+classes/java/lang/Void.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/com/google/firebase/database/core/Repo.members.trap.gz
+classes/com/google/firebase/database/core/Path.members.trap.gz

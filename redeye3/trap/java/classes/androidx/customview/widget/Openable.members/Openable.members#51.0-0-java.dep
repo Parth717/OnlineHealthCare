@@ -1,0 +1,8 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\customview\widget\Openable.members\Openable.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/customview/widget/Openable.members.trap.gz
+classes/java/lang/Object.members.trap.gz

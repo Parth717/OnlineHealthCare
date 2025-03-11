@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\view\ViewPropertyAnimator.members\ViewPropertyAnimator.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/view/ViewPropertyAnimator.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Runnable.members.trap.gz
+classes/android/animation/ValueAnimator$AnimatorUpdateListener.members.trap.gz
+classes/android/animation/Animator$AnimatorListener.members.trap.gz
+classes/android/animation/TimeInterpolator.members.trap.gz

@@ -1,0 +1,21 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\content\ClipData.members\ClipData.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/content/ClipData.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/os/Parcelable.members.trap.gz
+classes/android/os/Parcel.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/content/ClipData$Item.members.trap.gz
+classes/android/content/ContentResolver.members.trap.gz
+classes/android/content/ClipDescription.members.trap.gz
+classes/java/lang/CharSequence.members.trap.gz
+classes/android/net/Uri.members.trap.gz
+classes/android/content/Intent.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/android/os/Parcelable$Creator.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz

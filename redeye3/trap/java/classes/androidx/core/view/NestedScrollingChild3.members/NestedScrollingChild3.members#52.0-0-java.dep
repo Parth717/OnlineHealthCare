@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\core\view\NestedScrollingChild3.members\NestedScrollingChild3.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/core/view/NestedScrollingChild3.members.trap.gz
+classes/androidx/core/view/NestedScrollingChild2.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/androidx/annotation/Nullable.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz

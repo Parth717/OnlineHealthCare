@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\fragment\app\FragmentResultOwner.members\FragmentResultOwner.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/fragment/app/FragmentResultOwner.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz
+classes/androidx/lifecycle/LifecycleOwner.members.trap.gz
+classes/androidx/fragment/app/FragmentResultListener.members.trap.gz
+classes/android/os/Bundle.members.trap.gz

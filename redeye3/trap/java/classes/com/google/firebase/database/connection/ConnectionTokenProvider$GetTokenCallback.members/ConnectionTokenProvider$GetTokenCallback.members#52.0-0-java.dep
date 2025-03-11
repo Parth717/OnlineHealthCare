@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\google\firebase\database\connection\ConnectionTokenProvider$GetTokenCallback.members\ConnectionTokenProvider$GetTokenCallback.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/com/google/firebase/database/connection/ConnectionTokenProvider$GetTokenCallback.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/com/google/firebase/database/connection/ConnectionTokenProvider.members.trap.gz
+classes/java/lang/String.members.trap.gz

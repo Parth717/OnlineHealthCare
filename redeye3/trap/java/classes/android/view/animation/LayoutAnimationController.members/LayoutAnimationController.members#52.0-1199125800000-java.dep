@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\view\animation\LayoutAnimationController.members\LayoutAnimationController.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/view/animation/LayoutAnimationController.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/view/animation/LayoutAnimationController$AnimationParameters.members.trap.gz
+classes/android/view/View.members.trap.gz
+classes/android/view/animation/Animation.members.trap.gz
+classes/android/view/animation/Interpolator.members.trap.gz
+classes/android/content/Context.members.trap.gz
+classes/android/util/AttributeSet.members.trap.gz
+classes/java/util/Random.members.trap.gz

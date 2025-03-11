@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\graphics\fonts\FontStyle.members\FontStyle.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/graphics/fonts/FontStyle.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz

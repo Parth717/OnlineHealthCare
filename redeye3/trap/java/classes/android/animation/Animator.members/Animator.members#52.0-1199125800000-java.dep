@@ -1,0 +1,21 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\animation\Animator.members\Animator.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/animation/Animator.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz
+classes/android/animation/Animator$AnimatorPauseListener.members.trap.gz
+classes/java/util/ArrayList.members.trap.gz
+classes/java/util/AbstractList.members.trap.gz
+classes/java/util/AbstractCollection.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/RandomAccess.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/android/animation/Animator$AnimatorListener.members.trap.gz
+classes/android/animation/TimeInterpolator.members.trap.gz

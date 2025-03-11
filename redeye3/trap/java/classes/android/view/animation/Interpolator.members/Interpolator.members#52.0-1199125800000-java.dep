@@ -1,0 +1,8 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\view\animation\Interpolator.members\Interpolator.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/view/animation/Interpolator.members.trap.gz
+classes/android/animation/TimeInterpolator.members.trap.gz

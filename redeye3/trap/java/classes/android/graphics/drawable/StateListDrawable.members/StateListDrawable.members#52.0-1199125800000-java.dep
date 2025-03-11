@@ -1,0 +1,22 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\graphics\drawable\StateListDrawable.members\StateListDrawable.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/graphics/drawable/StateListDrawable.members.trap.gz
+classes/android/graphics/drawable/DrawableContainer.members.trap.gz
+classes/android/graphics/drawable/DrawableContainer$DrawableContainerState.members.trap.gz
+classes/androidx/annotation/RecentlyNonNull.members.trap.gz
+classes/android/content/res/Resources$Theme.members.trap.gz
+classes/android/graphics/drawable/Drawable.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz
+classes/android/content/res/Resources.members.trap.gz
+classes/org/xmlpull/v1/XmlPullParser.members.trap.gz
+classes/android/util/AttributeSet.members.trap.gz
+classes/java/io/IOException.members.trap.gz
+classes/org/xmlpull/v1/XmlPullParserException.members.trap.gz

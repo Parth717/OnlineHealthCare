@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\viewpager\widget\ViewPager$OnPageChangeListener.members\ViewPager$OnPageChangeListener.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/viewpager/widget/ViewPager$OnPageChangeListener.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/viewpager/widget/ViewPager.members.trap.gz
+classes/androidx/annotation/Px.members.trap.gz

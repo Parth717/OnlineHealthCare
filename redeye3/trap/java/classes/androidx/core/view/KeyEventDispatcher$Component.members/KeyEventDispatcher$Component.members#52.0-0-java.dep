@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\core\view\KeyEventDispatcher$Component.members\KeyEventDispatcher$Component.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/core/view/KeyEventDispatcher$Component.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/core/view/KeyEventDispatcher.members.trap.gz
+classes/android/view/KeyEvent.members.trap.gz

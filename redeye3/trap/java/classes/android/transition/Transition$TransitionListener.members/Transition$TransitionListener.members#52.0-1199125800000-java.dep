@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\transition\Transition$TransitionListener.members\Transition$TransitionListener.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/transition/Transition$TransitionListener.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/transition/Transition.members.trap.gz

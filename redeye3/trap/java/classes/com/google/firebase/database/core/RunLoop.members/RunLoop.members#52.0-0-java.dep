@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\google\firebase\database\core\RunLoop.members\RunLoop.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/com/google/firebase/database/core/RunLoop.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Runnable.members.trap.gz
+classes/java/util/concurrent/ScheduledFuture.members.trap.gz
+classes/java/util/concurrent/Delayed.members.trap.gz
+classes/java/util/concurrent/Future.members.trap.gz

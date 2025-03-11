@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\google\firebase\database\core\operation\Operation.members\Operation.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/com/google/firebase/database/core/operation/Operation.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/com/google/firebase/database/snapshot/ChildKey.members.trap.gz
+classes/com/google/firebase/database/core/operation/Operation$OperationType.members.trap.gz
+classes/com/google/firebase/database/core/operation/OperationSource.members.trap.gz
+classes/com/google/firebase/database/core/Path.members.trap.gz

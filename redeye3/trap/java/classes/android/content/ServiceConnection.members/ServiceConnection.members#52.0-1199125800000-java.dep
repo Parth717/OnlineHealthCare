@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\content\ServiceConnection.members\ServiceConnection.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/content/ServiceConnection.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/content/ComponentName.members.trap.gz
+classes/android/os/IBinder.members.trap.gz

@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\fragment\app\FragmentManager$OnBackStackChangedListener.members\FragmentManager$OnBackStackChangedListener.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/fragment/app/FragmentManager$OnBackStackChangedListener.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/fragment/app/FragmentManager.members.trap.gz
+classes/androidx/annotation/MainThread.members.trap.gz

@@ -1,0 +1,8 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\google\firebase\auth\FirebaseUserMetadata.members\FirebaseUserMetadata.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/com/google/firebase/auth/FirebaseUserMetadata.members.trap.gz
+classes/com/google/android/gms/common/internal/safeparcel/SafeParcelable.members.trap.gz

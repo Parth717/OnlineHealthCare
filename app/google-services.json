@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "614815187492",
+    "project_id": "projectohc-b512d",
+    "storage_bucket": "projectohc-b512d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614815187492:android:b15869fcff162ee3ecceb1",
+        "android_client_info": {
+          "package_name": "com.example.ohc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614815187492-muu36b3kv5m5o4dsm4a302bqu1qnm4j1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcv6wW20A5Agp-M-2tHx50eHbLPlg01KU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614815187492-muu36b3kv5m5o4dsm4a302bqu1qnm4j1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

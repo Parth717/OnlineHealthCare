@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\app\FragmentManager$FragmentLifecycleCallbacks.members\FragmentManager$FragmentLifecycleCallbacks.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/app/FragmentManager$FragmentLifecycleCallbacks.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/app/FragmentManager.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/app/Fragment.members.trap.gz
+classes/android/os/Bundle.members.trap.gz
+classes/android/view/View.members.trap.gz
+classes/android/content/Context.members.trap.gz

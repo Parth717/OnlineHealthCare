@@ -1,0 +1,8 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\widget\ListAdapter.members\ListAdapter.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/widget/ListAdapter.members.trap.gz
+classes/android/widget/Adapter.members.trap.gz

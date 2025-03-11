@@ -1,0 +1,20 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\google\firebase\database\MutableData.members\MutableData.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/com/google/firebase/database/MutableData.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/androidx/annotation/Nullable.members.trap.gz
+classes/com/google/firebase/database/DatabaseException.members.trap.gz
+classes/com/google/firebase/database/GenericTypeIndicator.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz
+classes/java/lang/Class.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/lang/reflect/GenericDeclaration.members.trap.gz
+classes/java/lang/reflect/Type.members.trap.gz
+classes/java/lang/reflect/AnnotatedElement.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/com/google/firebase/database/snapshot/Node.members.trap.gz

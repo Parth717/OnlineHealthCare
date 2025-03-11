@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\database\sqlite\SQLiteStatement.members\SQLiteStatement.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/database/sqlite/SQLiteStatement.members.trap.gz
+classes/android/database/sqlite/SQLiteProgram.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/os/ParcelFileDescriptor.members.trap.gz

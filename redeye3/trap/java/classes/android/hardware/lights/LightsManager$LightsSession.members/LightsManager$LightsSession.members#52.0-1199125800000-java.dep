@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\hardware\lights\LightsManager$LightsSession.members\LightsManager$LightsSession.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/hardware/lights/LightsManager$LightsSession.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/AutoCloseable.members.trap.gz
+classes/android/hardware/lights/LightsManager.members.trap.gz
+classes/android/hardware/lights/LightsRequest.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz

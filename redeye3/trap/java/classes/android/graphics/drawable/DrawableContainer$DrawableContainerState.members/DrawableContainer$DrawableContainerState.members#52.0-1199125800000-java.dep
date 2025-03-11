@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\graphics\drawable\DrawableContainer$DrawableContainerState.members\DrawableContainer$DrawableContainerState.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/graphics/drawable/DrawableContainer$DrawableContainerState.members.trap.gz
+classes/android/graphics/drawable/Drawable$ConstantState.members.trap.gz
+classes/android/graphics/drawable/DrawableContainer.members.trap.gz
+classes/android/graphics/Rect.members.trap.gz
+classes/android/graphics/drawable/Drawable.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz

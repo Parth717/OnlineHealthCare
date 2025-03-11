@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\appcompat\widget\ActionMenuPresenter$OpenOverflowRunnable.members\ActionMenuPresenter$OpenOverflowRunnable.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/appcompat/widget/ActionMenuPresenter$OpenOverflowRunnable.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Runnable.members.trap.gz
+classes/androidx/appcompat/widget/ActionMenuPresenter.members.trap.gz
+classes/androidx/appcompat/widget/ActionMenuPresenter$OverflowPopup.members.trap.gz

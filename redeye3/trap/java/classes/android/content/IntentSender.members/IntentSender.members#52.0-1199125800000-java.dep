@@ -1,0 +1,21 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\content\IntentSender.members\IntentSender.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/content/IntentSender.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/os/Parcelable.members.trap.gz
+classes/android/os/Parcel.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz
+classes/android/os/UserHandle.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/android/content/Context.members.trap.gz
+classes/android/content/Intent.members.trap.gz
+classes/android/content/IntentSender$OnFinished.members.trap.gz
+classes/android/os/Handler.members.trap.gz
+classes/android/content/IntentSender$SendIntentException.members.trap.gz
+classes/android/os/Parcelable$Creator.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz

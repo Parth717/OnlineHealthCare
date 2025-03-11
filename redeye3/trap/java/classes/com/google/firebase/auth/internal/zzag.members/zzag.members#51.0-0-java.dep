@@ -1,0 +1,21 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\google\firebase\auth\internal\zzag.members\zzag.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/com/google/firebase/auth/internal/zzag.members.trap.gz
+classes/com/google/firebase/auth/MultiFactorSession.members.trap.gz
+classes/com/google/android/gms/common/internal/safeparcel/SafeParcelable$Class.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/os/Parcel.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/com/google/firebase/auth/internal/zzx.members.trap.gz
+classes/com/google/android/gms/common/internal/safeparcel/SafeParcelable$Constructor.members.trap.gz
+classes/com/google/android/gms/common/internal/safeparcel/SafeParcelable$Param.members.trap.gz
+classes/androidx/annotation/Nullable.members.trap.gz
+classes/android/os/Parcelable$Creator.members.trap.gz
+classes/android/os/Parcelable.members.trap.gz

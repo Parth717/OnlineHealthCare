@@ -1,0 +1,17 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\view\View$AccessibilityDelegate.members\View$AccessibilityDelegate.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/view/View$AccessibilityDelegate.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/view/View.members.trap.gz
+classes/android/view/accessibility/AccessibilityNodeProvider.members.trap.gz
+classes/android/view/ViewGroup.members.trap.gz
+classes/android/view/accessibility/AccessibilityEvent.members.trap.gz
+classes/android/view/accessibility/AccessibilityNodeInfo.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/os/Bundle.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz

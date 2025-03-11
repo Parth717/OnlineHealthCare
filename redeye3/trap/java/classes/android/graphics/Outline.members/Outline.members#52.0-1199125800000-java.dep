@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\graphics\Outline.members\Outline.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/graphics/Outline.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/graphics/Path.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/graphics/Rect.members.trap.gz

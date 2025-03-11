@@ -1,0 +1,16 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\view\WindowInsetsController.members\WindowInsetsController.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/view/WindowInsetsController.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/view/WindowInsetsController$OnControllableInsetsChangedListener.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/android/view/animation/Interpolator.members.trap.gz
+classes/android/os/CancellationSignal.members.trap.gz
+classes/android/view/WindowInsetsAnimationControlListener.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/java/lang/String.members.trap.gz

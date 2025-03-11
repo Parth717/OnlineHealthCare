@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\core\os\CancellationSignal$OnCancelListener.members\CancellationSignal$OnCancelListener.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/core/os/CancellationSignal$OnCancelListener.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/core/os/CancellationSignal.members.trap.gz

@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\graphics\ColorSpace$Rgb$TransferParameters.members\ColorSpace$Rgb$TransferParameters.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/graphics/ColorSpace$Rgb$TransferParameters.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/graphics/ColorSpace$Rgb.members.trap.gz

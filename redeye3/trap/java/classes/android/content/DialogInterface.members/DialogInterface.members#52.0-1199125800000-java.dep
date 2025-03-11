@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\content\DialogInterface.members\DialogInterface.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/content/DialogInterface.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/java/lang/String.members.trap.gz

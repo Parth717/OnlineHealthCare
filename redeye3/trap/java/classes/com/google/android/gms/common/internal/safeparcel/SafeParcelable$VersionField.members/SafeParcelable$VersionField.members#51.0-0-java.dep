@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\google\android\gms\common\internal\safeparcel\SafeParcelable$VersionField.members\SafeParcelable$VersionField.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/com/google/android/gms/common/internal/safeparcel/SafeParcelable$VersionField.members.trap.gz
+classes/java/lang/annotation/Annotation.members.trap.gz
+classes/com/google/android/gms/common/internal/safeparcel/SafeParcelable.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz

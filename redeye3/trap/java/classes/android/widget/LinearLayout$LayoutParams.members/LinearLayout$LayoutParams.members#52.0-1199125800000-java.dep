@@ -1,0 +1,19 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\widget\LinearLayout$LayoutParams.members\LinearLayout$LayoutParams.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/widget/LinearLayout$LayoutParams.members.trap.gz
+classes/android/view/ViewGroup$MarginLayoutParams.members.trap.gz
+classes/android/widget/LinearLayout.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/view/ViewGroup$LayoutParams.members.trap.gz
+classes/android/content/Context.members.trap.gz
+classes/android/util/AttributeSet.members.trap.gz
+classes/android/view/ViewDebug$ExportedProperty.members.trap.gz
+classes/android/view/ViewDebug$IntToString.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/android/view/ViewDebug$FlagToString.members.trap.gz

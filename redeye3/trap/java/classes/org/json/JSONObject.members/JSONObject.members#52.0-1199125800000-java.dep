@@ -1,0 +1,19 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\json\JSONObject.members\JSONObject.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/org/json/JSONObject.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/annotation/RecentlyNullable.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/androidx/annotation/RecentlyNonNull.members.trap.gz
+classes/java/lang/Number.members.trap.gz
+classes/org/json/JSONException.members.trap.gz
+classes/org/json/JSONArray.members.trap.gz
+classes/java/util/Iterator.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/json/JSONTokener.members.trap.gz
+classes/java/util/Map.members.trap.gz

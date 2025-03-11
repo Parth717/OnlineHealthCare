@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\google\android\recaptcha\RecaptchaAction$Companion.members\RecaptchaAction$Companion.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/com/google/android/recaptcha/RecaptchaAction$Companion.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/com/google/android/recaptcha/RecaptchaAction.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/kotlin/jvm/JvmStatic.members.trap.gz
+classes/org/jetbrains/annotations/NotNull.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz

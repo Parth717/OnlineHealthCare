@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\view\MotionEvent$PointerCoords.members\MotionEvent$PointerCoords.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/view/MotionEvent$PointerCoords.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/view/MotionEvent.members.trap.gz

@@ -1,0 +1,18 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\fragment\app\FragmentState.members\FragmentState.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/fragment/app/FragmentState.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/os/Parcelable.members.trap.gz
+classes/android/annotation/SuppressLint.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/android/os/Parcel.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz
+classes/androidx/fragment/app/Fragment.members.trap.gz
+classes/android/os/Parcelable$Creator.members.trap.gz
+classes/android/os/Bundle.members.trap.gz

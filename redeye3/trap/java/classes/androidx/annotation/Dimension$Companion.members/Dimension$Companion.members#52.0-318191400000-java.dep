@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\annotation\Dimension$Companion.members\Dimension$Companion.members#52.0-318191400000-java.trap.gz
+
+TRAPS
+classes/androidx/annotation/Dimension$Companion.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/annotation/Dimension.members.trap.gz

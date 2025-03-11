@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\appcompat\widget\ActionMenuPresenter$OverflowMenuButton.members\ActionMenuPresenter$OverflowMenuButton.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/appcompat/widget/ActionMenuPresenter$OverflowMenuButton.members.trap.gz
+classes/androidx/appcompat/widget/AppCompatImageView.members.trap.gz
+classes/androidx/appcompat/widget/ActionMenuView$ActionMenuChildView.members.trap.gz
+classes/androidx/appcompat/widget/ActionMenuPresenter.members.trap.gz
+classes/android/content/Context.members.trap.gz

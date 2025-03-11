@@ -1,0 +1,20 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\text\PrecomputedText.members\PrecomputedText.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/text/PrecomputedText.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/text/Spannable.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/CharSequence.members.trap.gz
+classes/java/lang/Class.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/lang/reflect/GenericDeclaration.members.trap.gz
+classes/java/lang/reflect/Type.members.trap.gz
+classes/java/lang/reflect/AnnotatedElement.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/android/graphics/Rect.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/android/text/PrecomputedText$Params.members.trap.gz

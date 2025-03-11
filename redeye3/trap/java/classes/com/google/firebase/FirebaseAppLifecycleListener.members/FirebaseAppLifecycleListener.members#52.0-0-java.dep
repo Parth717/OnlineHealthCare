@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\google\firebase\FirebaseAppLifecycleListener.members\FirebaseAppLifecycleListener.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/com/google/firebase/FirebaseAppLifecycleListener.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/com/google/android/gms/common/annotation/KeepForSdk.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/com/google/firebase/FirebaseOptions.members.trap.gz

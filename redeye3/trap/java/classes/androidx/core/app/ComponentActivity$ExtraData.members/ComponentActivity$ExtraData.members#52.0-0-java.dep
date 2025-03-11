@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\core\app\ComponentActivity$ExtraData.members\ComponentActivity$ExtraData.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/core/app/ComponentActivity$ExtraData.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/core/app/ComponentActivity.members.trap.gz
+classes/androidx/annotation/RestrictTo.members.trap.gz
+classes/androidx/annotation/RestrictTo$Scope.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/java/lang/String.members.trap.gz

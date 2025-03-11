@@ -1,0 +1,22 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\content\pm\PackageInstaller$SessionParams.members\PackageInstaller$SessionParams.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/content/pm/PackageInstaller$SessionParams.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/os/Parcelable.members.trap.gz
+classes/android/content/pm/PackageInstaller.members.trap.gz
+classes/android/os/Parcel.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/util/Set.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz
+classes/android/net/Uri.members.trap.gz
+classes/java/lang/CharSequence.members.trap.gz
+classes/android/graphics/Bitmap.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/android/os/Parcelable$Creator.members.trap.gz

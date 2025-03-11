@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\widget\AbsListView$MultiChoiceModeListener.members\AbsListView$MultiChoiceModeListener.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/widget/AbsListView$MultiChoiceModeListener.members.trap.gz
+classes/android/view/ActionMode$Callback.members.trap.gz
+classes/android/widget/AbsListView.members.trap.gz
+classes/android/view/ActionMode.members.trap.gz

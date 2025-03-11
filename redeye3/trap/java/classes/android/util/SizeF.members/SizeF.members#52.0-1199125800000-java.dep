@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\util\SizeF.members\SizeF.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/util/SizeF.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/os/Parcelable.members.trap.gz
+classes/android/os/Parcel.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/NumberFormatException.members.trap.gz
+classes/android/os/Parcelable$Creator.members.trap.gz

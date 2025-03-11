@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\example\ohc\MainActivity.members\MainActivity.members#0.0-1693250669404-java.trap.gz
+
+TRAPS
+classes/com/example/ohc/MainActivity.members.trap.gz
+classes/androidx/appcompat/app/AppCompatActivity.members.trap.gz
+classes/android/os/Bundle.members.trap.gz
+classes/java/lang/Override.members.trap.gz

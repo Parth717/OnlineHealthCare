@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\animation\AnimatorListenerAdapter.members\AnimatorListenerAdapter.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/animation/AnimatorListenerAdapter.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/animation/Animator$AnimatorListener.members.trap.gz
+classes/android/animation/Animator$AnimatorPauseListener.members.trap.gz
+classes/android/animation/Animator.members.trap.gz

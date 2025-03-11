@@ -1,0 +1,19 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\content\res\AssetManager.members\AssetManager.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/content/res/AssetManager.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/AutoCloseable.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/lang/Throwable.members.trap.gz
+classes/android/content/res/XmlResourceParser.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/java/io/IOException.members.trap.gz
+classes/android/content/res/AssetFileDescriptor.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz
+classes/java/io/InputStream.members.trap.gz

@@ -1,0 +1,8 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\activity\Cancellable.members\Cancellable.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/activity/Cancellable.members.trap.gz
+classes/java/lang/Object.members.trap.gz

@@ -1,0 +1,19 @@
+TRAP dependencies 1.2
+
+SOURCES
+
+INCLUDES
+
+OBJECTS
+
+INPUT_OBJECTS
+
+TRAPS
+C_\Users\Admin\AndroidStudioProjects\OHC2\app\src\main\java\com\example\ohc\ArticleDetailActivity.java.trap.gz
+classes\com\example\ohc\ArticleDetailActivity.members\ArticleDetailActivity.members#0.0-1695722092240-java.trap.gz
+classes\com\example\ohc\HealthArticleActivity.members\HealthArticleActivity.members#0.0-1695722092248-java.trap.gz
+classes\android\widget\SimpleAdapter.members\SimpleAdapter.members#52.0-1199125800000-java.trap.gz
+classes\android\widget\Filterable.members\Filterable.members#52.0-1199125800000-java.trap.gz
+classes\android\widget\ThemedSpinnerAdapter.members\ThemedSpinnerAdapter.members#52.0-1199125800000-java.trap.gz
+classes\android\widget\SimpleAdapter$ViewBinder.members\SimpleAdapter$ViewBinder.members#52.0-1199125800000-java.trap.gz
+jars\C_\Users\Admin\AppData\Local\Android\Sdk\platforms\android-32\android.jar.trap.gz

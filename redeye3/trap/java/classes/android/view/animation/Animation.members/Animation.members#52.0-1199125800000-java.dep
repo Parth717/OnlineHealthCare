@@ -1,0 +1,18 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\view\animation\Animation.members\Animation.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/view/animation/Animation.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/lang/Throwable.members.trap.gz
+classes/android/view/animation/Transformation.members.trap.gz
+classes/android/view/animation/Animation$AnimationListener.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/view/animation/Interpolator.members.trap.gz
+classes/android/content/Context.members.trap.gz
+classes/java/lang/CloneNotSupportedException.members.trap.gz
+classes/android/util/AttributeSet.members.trap.gz

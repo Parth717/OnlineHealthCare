@@ -1,0 +1,25 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\content\pm\PackageInstaller$Session.members\PackageInstaller$Session.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/content/pm/PackageInstaller$Session.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/io/Closeable.members.trap.gz
+classes/android/content/pm/PackageInstaller.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/content/pm/PackageManager$NameNotFoundException.members.trap.gz
+classes/android/content/IntentSender.members.trap.gz
+classes/android/content/pm/Checksum.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz
+classes/java/io/IOException.members.trap.gz
+classes/java/io/InputStream.members.trap.gz
+classes/java/io/OutputStream.members.trap.gz

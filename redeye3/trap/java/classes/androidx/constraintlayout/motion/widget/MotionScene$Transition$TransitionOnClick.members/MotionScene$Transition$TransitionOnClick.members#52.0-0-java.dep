@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\constraintlayout\motion\widget\MotionScene$Transition$TransitionOnClick.members\MotionScene$Transition$TransitionOnClick.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/constraintlayout/motion/widget/MotionScene$Transition$TransitionOnClick.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/view/View$OnClickListener.members.trap.gz
+classes/androidx/constraintlayout/motion/widget/MotionScene$Transition.members.trap.gz
+classes/android/view/View.members.trap.gz
+classes/androidx/constraintlayout/motion/widget/MotionLayout.members.trap.gz
+classes/android/content/Context.members.trap.gz
+classes/org/xmlpull/v1/XmlPullParser.members.trap.gz

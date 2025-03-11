@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\window\SplashScreen$OnExitAnimationListener.members\SplashScreen$OnExitAnimationListener.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/window/SplashScreen$OnExitAnimationListener.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/window/SplashScreen.members.trap.gz
+classes/android/window/SplashScreenView.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz

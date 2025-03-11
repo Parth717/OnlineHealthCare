@@ -1,0 +1,20 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\constraintlayout\motion\widget\KeyPositionBase.members\KeyPositionBase.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/constraintlayout/motion/widget/KeyPositionBase.members.trap.gz
+classes/androidx/constraintlayout/motion/widget/Key.members.trap.gz
+classes/android/graphics/RectF.members.trap.gz
+classes/android/view/View.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/util/HashSet.members.trap.gz
+classes/java/util/AbstractSet.members.trap.gz
+classes/java/util/AbstractCollection.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/util/Set.members.trap.gz

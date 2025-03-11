@@ -1,0 +1,18 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\constraintlayout\motion\widget\TouchResponse.members\TouchResponse.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/constraintlayout/motion/widget/TouchResponse.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/view/ViewGroup.members.trap.gz
+classes/android/graphics/RectF.members.trap.gz
+classes/android/view/MotionEvent.members.trap.gz
+classes/androidx/constraintlayout/motion/widget/MotionLayout$MotionTracker.members.trap.gz
+classes/androidx/constraintlayout/motion/widget/MotionScene.members.trap.gz
+classes/androidx/constraintlayout/motion/widget/MotionLayout.members.trap.gz
+classes/androidx/constraintlayout/motion/widget/OnSwipe.members.trap.gz
+classes/android/content/Context.members.trap.gz
+classes/org/xmlpull/v1/XmlPullParser.members.trap.gz

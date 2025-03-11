@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\recyclerview\widget\RecyclerView$ItemAnimator$ItemAnimatorFinishedListener.members\RecyclerView$ItemAnimator$ItemAnimatorFinishedListener.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/recyclerview/widget/RecyclerView$ItemAnimator$ItemAnimatorFinishedListener.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/recyclerview/widget/RecyclerView$ItemAnimator.members.trap.gz

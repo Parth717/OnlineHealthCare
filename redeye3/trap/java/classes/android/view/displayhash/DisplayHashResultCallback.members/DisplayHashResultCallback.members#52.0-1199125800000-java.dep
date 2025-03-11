@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\view\displayhash\DisplayHashResultCallback.members\DisplayHashResultCallback.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/view/displayhash/DisplayHashResultCallback.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/view/displayhash/DisplayHash.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz

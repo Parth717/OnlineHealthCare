@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\appcompat\widget\ActionMenuPresenter$PopupPresenterCallback.members\ActionMenuPresenter$PopupPresenterCallback.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/appcompat/widget/ActionMenuPresenter$PopupPresenterCallback.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/appcompat/view/menu/MenuPresenter$Callback.members.trap.gz
+classes/androidx/appcompat/widget/ActionMenuPresenter.members.trap.gz
+classes/androidx/appcompat/view/menu/MenuBuilder.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz

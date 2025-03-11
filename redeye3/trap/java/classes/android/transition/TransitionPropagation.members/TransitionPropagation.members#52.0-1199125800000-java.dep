@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\transition\TransitionPropagation.members\TransitionPropagation.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/transition/TransitionPropagation.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/android/transition/TransitionValues.members.trap.gz
+classes/android/view/ViewGroup.members.trap.gz
+classes/android/transition/Transition.members.trap.gz

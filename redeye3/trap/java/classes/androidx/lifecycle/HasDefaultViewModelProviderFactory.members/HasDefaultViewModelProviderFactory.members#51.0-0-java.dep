@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\lifecycle\HasDefaultViewModelProviderFactory.members\HasDefaultViewModelProviderFactory.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/lifecycle/HasDefaultViewModelProviderFactory.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/lifecycle/ViewModelProvider$Factory.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz

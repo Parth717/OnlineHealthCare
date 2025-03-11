@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\example\ohc\MyAdapter4$MyViewHolder.members\MyAdapter4$MyViewHolder.members#0.0-1693740838548-java.trap.gz
+
+TRAPS
+classes/com/example/ohc/MyAdapter4$MyViewHolder.members.trap.gz
+classes/androidx/recyclerview/widget/RecyclerView$ViewHolder.members.trap.gz
+classes/com/example/ohc/MyAdapter4.members.trap.gz
+classes/android/view/View.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz
+classes/android/widget/TextView.members.trap.gz

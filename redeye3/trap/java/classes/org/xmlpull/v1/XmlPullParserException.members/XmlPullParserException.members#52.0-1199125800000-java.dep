@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\xmlpull\v1\XmlPullParserException.members\XmlPullParserException.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/org/xmlpull/v1/XmlPullParserException.members.trap.gz
+classes/java/lang/Exception.members.trap.gz
+classes/java/lang/Throwable.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/xmlpull/v1/XmlPullParser.members.trap.gz

@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\appcompat\widget\ScrollingTabContainerView$TabView.members\ScrollingTabContainerView$TabView.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/appcompat/widget/ScrollingTabContainerView$TabView.members.trap.gz
+classes/android/widget/LinearLayout.members.trap.gz
+classes/androidx/appcompat/widget/ScrollingTabContainerView.members.trap.gz
+classes/androidx/appcompat/app/ActionBar$Tab.members.trap.gz
+classes/android/view/accessibility/AccessibilityNodeInfo.members.trap.gz
+classes/android/view/accessibility/AccessibilityEvent.members.trap.gz
+classes/android/content/Context.members.trap.gz

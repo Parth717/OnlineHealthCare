@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\view\WindowInsetsController$OnControllableInsetsChangedListener.members\WindowInsetsController$OnControllableInsetsChangedListener.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/view/WindowInsetsController$OnControllableInsetsChangedListener.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/view/WindowInsetsController.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz

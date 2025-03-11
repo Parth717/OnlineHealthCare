@@ -1,0 +1,24 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\app\FragmentManager.members\FragmentManager.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/app/FragmentManager.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/io/FileDescriptor.members.trap.gz
+classes/java/io/PrintWriter.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/android/app/Fragment.members.trap.gz
+classes/android/app/FragmentManager$FragmentLifecycleCallbacks.members.trap.gz
+classes/android/app/Fragment$SavedState.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/android/os/Bundle.members.trap.gz
+classes/android/app/FragmentManager$OnBackStackChangedListener.members.trap.gz
+classes/android/app/FragmentManager$BackStackEntry.members.trap.gz
+classes/android/app/FragmentTransaction.members.trap.gz

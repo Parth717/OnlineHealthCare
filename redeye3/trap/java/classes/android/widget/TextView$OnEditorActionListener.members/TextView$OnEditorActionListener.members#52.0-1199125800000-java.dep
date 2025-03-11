@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\widget\TextView$OnEditorActionListener.members\TextView$OnEditorActionListener.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/widget/TextView$OnEditorActionListener.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/widget/TextView.members.trap.gz
+classes/android/view/KeyEvent.members.trap.gz

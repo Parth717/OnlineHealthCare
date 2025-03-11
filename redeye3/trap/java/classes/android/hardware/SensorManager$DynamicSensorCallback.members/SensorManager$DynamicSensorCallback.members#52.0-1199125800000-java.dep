@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\hardware\SensorManager$DynamicSensorCallback.members\SensorManager$DynamicSensorCallback.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/hardware/SensorManager$DynamicSensorCallback.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/hardware/SensorManager.members.trap.gz
+classes/android/hardware/Sensor.members.trap.gz

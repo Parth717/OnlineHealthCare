@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\graphics\SurfaceTexture.members\SurfaceTexture.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/graphics/SurfaceTexture.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Throwable.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/android/graphics/SurfaceTexture$OnFrameAvailableListener.members.trap.gz
+classes/android/os/Handler.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz

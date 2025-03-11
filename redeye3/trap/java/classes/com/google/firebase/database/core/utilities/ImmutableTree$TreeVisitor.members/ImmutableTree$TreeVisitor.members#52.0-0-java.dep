@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\google\firebase\database\core\utilities\ImmutableTree$TreeVisitor.members\ImmutableTree$TreeVisitor.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/com/google/firebase/database/core/utilities/ImmutableTree$TreeVisitor.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/com/google/firebase/database/core/utilities/ImmutableTree.members.trap.gz
+classes/com/google/firebase/database/core/Path.members.trap.gz

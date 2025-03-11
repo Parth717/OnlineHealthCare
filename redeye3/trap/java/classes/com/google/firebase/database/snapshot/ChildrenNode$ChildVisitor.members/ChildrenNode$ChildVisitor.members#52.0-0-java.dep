@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\google\firebase\database\snapshot\ChildrenNode$ChildVisitor.members\ChildrenNode$ChildVisitor.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/com/google/firebase/database/snapshot/ChildrenNode$ChildVisitor.members.trap.gz
+classes/com/google/firebase/database/snapshot/ChildKey.members.trap.gz
+classes/com/google/firebase/database/snapshot/Node.members.trap.gz
+classes/com/google/firebase/database/collection/LLRBNode$NodeVisitor.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/com/google/firebase/database/collection/LLRBNode$ShortCircuitingNodeVisitor.members.trap.gz
+classes/com/google/firebase/database/collection/LLRBNode.members.trap.gz
+classes/com/google/firebase/database/snapshot/ChildrenNode.members.trap.gz

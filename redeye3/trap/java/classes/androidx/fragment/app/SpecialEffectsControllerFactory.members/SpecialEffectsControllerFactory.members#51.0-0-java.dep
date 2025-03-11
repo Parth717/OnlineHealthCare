@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\fragment\app\SpecialEffectsControllerFactory.members\SpecialEffectsControllerFactory.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/fragment/app/SpecialEffectsControllerFactory.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/view/ViewGroup.members.trap.gz
+classes/androidx/fragment/app/SpecialEffectsController.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz

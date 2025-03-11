@@ -1,0 +1,24 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\hardware\SensorManager.members\SensorManager.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/hardware/SensorManager.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/hardware/TriggerEventListener.members.trap.gz
+classes/android/hardware/Sensor.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/android/hardware/SensorManager$DynamicSensorCallback.members.trap.gz
+classes/android/os/Handler.members.trap.gz
+classes/android/hardware/HardwareBuffer.members.trap.gz
+classes/android/hardware/SensorDirectChannel.members.trap.gz
+classes/android/os/MemoryFile.members.trap.gz
+classes/android/hardware/SensorEventListener.members.trap.gz
+classes/android/hardware/SensorListener.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz

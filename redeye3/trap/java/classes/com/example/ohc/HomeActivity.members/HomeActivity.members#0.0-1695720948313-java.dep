@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\example\ohc\HomeActivity.members\HomeActivity.members#0.0-1695720948313-java.trap.gz
+
+TRAPS
+classes/com/example/ohc/HomeActivity.members.trap.gz
+classes/androidx/appcompat/app/AppCompatActivity.members.trap.gz
+classes/com/google/android/material/navigation/NavigationView$OnNavigationItemSelectedListener.members.trap.gz
+classes/java/lang/Override.members.trap.gz
+classes/android/view/MenuItem.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz
+classes/android/os/Bundle.members.trap.gz

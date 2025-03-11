@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\os\VibrationEffect.members\VibrationEffect.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/os/VibrationEffect.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/os/Parcelable.members.trap.gz
+classes/android/os/VibrationEffect$Composition.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/android/os/Parcelable$Creator.members.trap.gz

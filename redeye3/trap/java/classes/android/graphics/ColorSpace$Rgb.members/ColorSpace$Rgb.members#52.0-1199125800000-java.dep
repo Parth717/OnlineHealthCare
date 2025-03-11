@@ -1,0 +1,16 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\graphics\ColorSpace$Rgb.members\ColorSpace$Rgb.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/graphics/ColorSpace$Rgb.members.trap.gz
+classes/android/graphics/ColorSpace.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/android/graphics/ColorSpace$Rgb$TransferParameters.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz
+classes/java/util/function/DoubleUnaryOperator.members.trap.gz
+classes/java/lang/String.members.trap.gz

@@ -1,0 +1,25 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\google\firebase\database\core\Context.members\Context.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/com/google/firebase/database/core/Context.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/io/File.members.trap.gz
+classes/com/google/firebase/database/connection/HostInfo.members.trap.gz
+classes/com/google/firebase/database/connection/PersistentConnection$Delegate.members.trap.gz
+classes/com/google/firebase/database/connection/PersistentConnection.members.trap.gz
+classes/com/google/firebase/database/core/TokenProvider.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/com/google/firebase/database/core/RunLoop.members.trap.gz
+classes/com/google/firebase/database/core/EventTarget.members.trap.gz
+classes/com/google/firebase/database/core/persistence/PersistenceManager.members.trap.gz
+classes/com/google/firebase/database/connection/ConnectionContext.members.trap.gz
+classes/com/google/firebase/database/logging/LogWrapper.members.trap.gz
+classes/com/google/firebase/database/logging/Logger.members.trap.gz
+classes/com/google/firebase/database/logging/Logger$Level.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/com/google/firebase/FirebaseApp.members.trap.gz

@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\content\pm\ActivityInfo$WindowLayout.members\ActivityInfo$WindowLayout.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/content/pm/ActivityInfo$WindowLayout.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/content/pm/ActivityInfo.members.trap.gz

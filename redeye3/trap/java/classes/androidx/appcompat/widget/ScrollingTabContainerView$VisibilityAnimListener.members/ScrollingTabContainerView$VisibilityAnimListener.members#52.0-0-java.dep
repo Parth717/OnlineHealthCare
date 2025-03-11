@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\appcompat\widget\ScrollingTabContainerView$VisibilityAnimListener.members\ScrollingTabContainerView$VisibilityAnimListener.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/appcompat/widget/ScrollingTabContainerView$VisibilityAnimListener.members.trap.gz
+classes/android/animation/AnimatorListenerAdapter.members.trap.gz
+classes/androidx/appcompat/widget/ScrollingTabContainerView.members.trap.gz
+classes/android/animation/Animator.members.trap.gz
+classes/android/view/ViewPropertyAnimator.members.trap.gz

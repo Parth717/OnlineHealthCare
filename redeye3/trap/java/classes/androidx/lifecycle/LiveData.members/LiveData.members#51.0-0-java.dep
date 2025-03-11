@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\lifecycle\LiveData.members\LiveData.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/lifecycle/LiveData.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/androidx/annotation/MainThread.members.trap.gz
+classes/androidx/annotation/Nullable.members.trap.gz
+classes/androidx/lifecycle/LifecycleOwner.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz
+classes/androidx/lifecycle/Observer.members.trap.gz
+classes/androidx/lifecycle/LiveData$ObserverWrapper.members.trap.gz

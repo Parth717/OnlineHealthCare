@@ -1,0 +1,17 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\fragment\app\FragmentStateManager.members\FragmentStateManager.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/fragment/app/FragmentStateManager.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/fragment/app/Fragment$SavedState.members.trap.gz
+classes/androidx/annotation/Nullable.members.trap.gz
+classes/androidx/fragment/app/FragmentState.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz
+classes/java/lang/ClassLoader.members.trap.gz
+classes/androidx/fragment/app/Fragment.members.trap.gz
+classes/androidx/fragment/app/FragmentLifecycleCallbacksDispatcher.members.trap.gz
+classes/androidx/fragment/app/FragmentStore.members.trap.gz
+classes/androidx/fragment/app/FragmentFactory.members.trap.gz

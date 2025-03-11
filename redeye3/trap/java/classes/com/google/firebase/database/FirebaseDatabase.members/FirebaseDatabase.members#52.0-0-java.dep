@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\google\firebase\database\FirebaseDatabase.members\FirebaseDatabase.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/com/google/firebase/database/FirebaseDatabase.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/com/google/firebase/database/core/DatabaseConfig.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz
+classes/com/google/firebase/database/Logger$Level.members.trap.gz
+classes/com/google/firebase/database/DatabaseReference.members.trap.gz
+classes/com/google/firebase/FirebaseApp.members.trap.gz
+classes/com/google/firebase/database/core/RepoInfo.members.trap.gz

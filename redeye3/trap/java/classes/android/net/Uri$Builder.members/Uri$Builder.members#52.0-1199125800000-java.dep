@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\net\Uri$Builder.members\Uri$Builder.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/net/Uri$Builder.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/net/Uri.members.trap.gz
+classes/java/lang/String.members.trap.gz

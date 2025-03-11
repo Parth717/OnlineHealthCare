@@ -1,0 +1,16 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\view\accessibility\AccessibilityEvent.members\AccessibilityEvent.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/view/accessibility/AccessibilityEvent.members.trap.gz
+classes/android/view/accessibility/AccessibilityRecord.members.trap.gz
+classes/android/os/Parcelable.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/os/Parcel.members.trap.gz
+classes/java/lang/CharSequence.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/android/os/Parcelable$Creator.members.trap.gz
+classes/java/lang/Object.members.trap.gz

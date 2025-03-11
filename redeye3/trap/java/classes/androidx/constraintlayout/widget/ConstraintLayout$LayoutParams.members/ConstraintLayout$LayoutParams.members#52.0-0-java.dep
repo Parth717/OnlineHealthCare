@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\constraintlayout\widget\ConstraintLayout$LayoutParams.members\ConstraintLayout$LayoutParams.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/constraintlayout/widget/ConstraintLayout$LayoutParams.members.trap.gz
+classes/android/view/ViewGroup$MarginLayoutParams.members.trap.gz
+classes/androidx/constraintlayout/widget/ConstraintLayout.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/annotation/TargetApi.members.trap.gz
+classes/android/view/ViewGroup$LayoutParams.members.trap.gz
+classes/android/content/Context.members.trap.gz
+classes/android/util/AttributeSet.members.trap.gz

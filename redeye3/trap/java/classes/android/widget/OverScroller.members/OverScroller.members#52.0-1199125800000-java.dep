@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\widget\OverScroller.members\OverScroller.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/widget/OverScroller.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/content/Context.members.trap.gz
+classes/android/view/animation/Interpolator.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/java/lang/String.members.trap.gz

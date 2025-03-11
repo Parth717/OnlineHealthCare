@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\app\Application.members\Application.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/app/Application.members.trap.gz
+classes/android/content/ContextWrapper.members.trap.gz
+classes/android/content/ComponentCallbacks2.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/app/Application$OnProvideAssistDataListener.members.trap.gz
+classes/android/app/Application$ActivityLifecycleCallbacks.members.trap.gz
+classes/android/content/ComponentCallbacks.members.trap.gz
+classes/android/content/res/Configuration.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz

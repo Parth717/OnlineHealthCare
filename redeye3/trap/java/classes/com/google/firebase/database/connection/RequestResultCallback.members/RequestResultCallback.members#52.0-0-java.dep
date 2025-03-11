@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\google\firebase\database\connection\RequestResultCallback.members\RequestResultCallback.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/com/google/firebase/database/connection/RequestResultCallback.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz

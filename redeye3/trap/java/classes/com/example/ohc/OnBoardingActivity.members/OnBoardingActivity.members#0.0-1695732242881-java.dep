@@ -1,0 +1,20 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\example\ohc\OnBoardingActivity.members\OnBoardingActivity.members#0.0-1695732242881-java.trap.gz
+
+TRAPS
+classes/com/example/ohc/OnBoardingActivity.members.trap.gz
+classes/androidx/appcompat/app/AppCompatActivity.members.trap.gz
+classes/androidx/viewpager/widget/ViewPager$OnPageChangeListener.members.trap.gz
+classes/android/os/Bundle.members.trap.gz
+classes/java/lang/Override.members.trap.gz
+classes/android/view/animation/Animation.members.trap.gz
+classes/android/widget/TextView.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/com/example/ohc/sliderAdapter.members.trap.gz
+classes/android/widget/Button.members.trap.gz
+classes/android/widget/LinearLayout.members.trap.gz
+classes/androidx/viewpager/widget/ViewPager.members.trap.gz

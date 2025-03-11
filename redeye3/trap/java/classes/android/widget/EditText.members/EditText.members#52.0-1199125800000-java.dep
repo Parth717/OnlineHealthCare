@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\widget\EditText.members\EditText.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/widget/EditText.members.trap.gz
+classes/android/widget/TextView.members.trap.gz
+classes/java/lang/CharSequence.members.trap.gz
+classes/android/text/TextUtils$TruncateAt.members.trap.gz
+classes/android/widget/TextView$BufferType.members.trap.gz
+classes/android/text/Editable.members.trap.gz
+classes/android/text/method/MovementMethod.members.trap.gz
+classes/android/content/Context.members.trap.gz
+classes/android/util/AttributeSet.members.trap.gz

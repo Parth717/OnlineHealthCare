@@ -1,0 +1,16 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\media\session\PlaybackState$CustomAction.members\PlaybackState$CustomAction.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/media/session/PlaybackState$CustomAction.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/os/Parcelable.members.trap.gz
+classes/android/media/session/PlaybackState.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/os/Bundle.members.trap.gz
+classes/java/lang/CharSequence.members.trap.gz
+classes/android/os/Parcel.members.trap.gz
+classes/android/os/Parcelable$Creator.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz

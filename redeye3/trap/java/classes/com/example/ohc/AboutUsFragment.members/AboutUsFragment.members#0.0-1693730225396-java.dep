@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\example\ohc\AboutUsFragment.members\AboutUsFragment.members#0.0-1693730225396-java.trap.gz
+
+TRAPS
+classes/com/example/ohc/AboutUsFragment.members.trap.gz
+classes/androidx/fragment/app/Fragment.members.trap.gz
+classes/android/view/LayoutInflater.members.trap.gz
+classes/android/view/ViewGroup.members.trap.gz
+classes/android/os/Bundle.members.trap.gz
+classes/android/view/View.members.trap.gz
+classes/java/lang/Override.members.trap.gz

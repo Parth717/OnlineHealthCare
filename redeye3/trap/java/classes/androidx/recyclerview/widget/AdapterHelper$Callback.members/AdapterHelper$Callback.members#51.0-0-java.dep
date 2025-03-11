@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\recyclerview\widget\AdapterHelper$Callback.members\AdapterHelper$Callback.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/recyclerview/widget/AdapterHelper$Callback.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/recyclerview/widget/AdapterHelper.members.trap.gz
+classes/androidx/recyclerview/widget/AdapterHelper$UpdateOp.members.trap.gz
+classes/androidx/recyclerview/widget/RecyclerView$ViewHolder.members.trap.gz

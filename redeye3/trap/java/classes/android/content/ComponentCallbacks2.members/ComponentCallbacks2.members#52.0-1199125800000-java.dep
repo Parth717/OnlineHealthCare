@@ -1,0 +1,8 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\content\ComponentCallbacks2.members\ComponentCallbacks2.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/content/ComponentCallbacks2.members.trap.gz
+classes/android/content/ComponentCallbacks.members.trap.gz

@@ -1,0 +1,21 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\google\firebase\database\core\WriteTree.members\WriteTree.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/com/google/firebase/database/core/WriteTree.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/com/google/firebase/database/core/Path.members.trap.gz
+classes/com/google/firebase/database/snapshot/Node.members.trap.gz
+classes/com/google/firebase/database/snapshot/NamedNode.members.trap.gz
+classes/com/google/firebase/database/snapshot/Index.members.trap.gz
+classes/com/google/firebase/database/snapshot/ChildKey.members.trap.gz
+classes/com/google/firebase/database/core/view/CacheNode.members.trap.gz
+classes/java/lang/Long.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/com/google/firebase/database/core/UserWriteRecord.members.trap.gz
+classes/com/google/firebase/database/core/CompoundWrite.members.trap.gz
+classes/com/google/firebase/database/core/WriteTreeRef.members.trap.gz

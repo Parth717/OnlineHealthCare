@@ -1,0 +1,22 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\constraintlayout\motion\widget\MotionPaths.members\MotionPaths.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/constraintlayout/motion/widget/MotionPaths.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Comparable.members.trap.gz
+classes/androidx/constraintlayout/motion/widget/MotionController.members.trap.gz
+classes/androidx/constraintlayout/widget/ConstraintSet$Constraint.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/android/view/View.members.trap.gz
+classes/androidx/constraintlayout/motion/widget/KeyPosition.members.trap.gz
+classes/androidx/constraintlayout/widget/ConstraintAttribute.members.trap.gz
+classes/java/util/LinkedHashMap.members.trap.gz
+classes/java/util/HashMap.members.trap.gz
+classes/java/util/AbstractMap.members.trap.gz
+classes/java/util/Map.members.trap.gz

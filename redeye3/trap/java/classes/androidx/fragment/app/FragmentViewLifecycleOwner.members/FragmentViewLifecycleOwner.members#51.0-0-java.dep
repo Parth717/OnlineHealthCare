@@ -1,0 +1,21 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\fragment\app\FragmentViewLifecycleOwner.members\FragmentViewLifecycleOwner.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/fragment/app/FragmentViewLifecycleOwner.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/lifecycle/HasDefaultViewModelProviderFactory.members.trap.gz
+classes/androidx/savedstate/SavedStateRegistryOwner.members.trap.gz
+classes/androidx/lifecycle/ViewModelStoreOwner.members.trap.gz
+classes/android/os/Bundle.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz
+classes/androidx/annotation/Nullable.members.trap.gz
+classes/androidx/savedstate/SavedStateRegistry.members.trap.gz
+classes/androidx/lifecycle/ViewModelProvider$Factory.members.trap.gz
+classes/androidx/lifecycle/Lifecycle$Event.members.trap.gz
+classes/androidx/lifecycle/Lifecycle$State.members.trap.gz
+classes/androidx/lifecycle/Lifecycle.members.trap.gz
+classes/androidx/lifecycle/ViewModelStore.members.trap.gz
+classes/androidx/fragment/app/Fragment.members.trap.gz

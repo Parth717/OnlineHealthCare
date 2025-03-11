@@ -1,0 +1,19 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\content\res\TypedArray.members\TypedArray.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/content/res/TypedArray.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/AutoCloseable.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/util/TypedValue.members.trap.gz
+classes/java/lang/CharSequence.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/android/graphics/Typeface.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz
+classes/android/graphics/drawable/Drawable.members.trap.gz
+classes/android/content/res/ColorStateList.members.trap.gz
+classes/android/content/res/Resources.members.trap.gz

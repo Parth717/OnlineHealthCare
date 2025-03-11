@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\recyclerview\widget\ViewInfoStore$InfoRecord.members\ViewInfoStore$InfoRecord.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/recyclerview/widget/ViewInfoStore$InfoRecord.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/recyclerview/widget/ViewInfoStore.members.trap.gz
+classes/androidx/core/util/Pools$Pool.members.trap.gz
+classes/androidx/core/util/Pools.members.trap.gz
+classes/androidx/recyclerview/widget/RecyclerView$ItemAnimator$ItemHolderInfo.members.trap.gz
+classes/androidx/annotation/Nullable.members.trap.gz

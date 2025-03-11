@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\view\Window$OnFrameMetricsAvailableListener.members\Window$OnFrameMetricsAvailableListener.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/view/Window$OnFrameMetricsAvailableListener.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/view/Window.members.trap.gz
+classes/android/view/FrameMetrics.members.trap.gz

@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\activity\OnBackPressedDispatcherOwner.members\OnBackPressedDispatcherOwner.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/activity/OnBackPressedDispatcherOwner.members.trap.gz
+classes/androidx/lifecycle/LifecycleOwner.members.trap.gz
+classes/androidx/activity/OnBackPressedDispatcher.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz

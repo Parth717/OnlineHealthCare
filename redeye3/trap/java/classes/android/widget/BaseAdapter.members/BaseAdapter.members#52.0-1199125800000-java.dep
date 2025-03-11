@@ -1,0 +1,17 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\widget\BaseAdapter.members\BaseAdapter.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/widget/BaseAdapter.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/widget/ListAdapter.members.trap.gz
+classes/android/widget/SpinnerAdapter.members.trap.gz
+classes/java/lang/CharSequence.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz
+classes/android/view/View.members.trap.gz
+classes/android/view/ViewGroup.members.trap.gz
+classes/android/database/DataSetObserver.members.trap.gz

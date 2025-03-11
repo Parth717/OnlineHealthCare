@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\google\firebase\auth\FirebaseAuth$IdTokenListener.members\FirebaseAuth$IdTokenListener.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/com/google/firebase/auth/FirebaseAuth$IdTokenListener.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/com/google/firebase/auth/FirebaseAuth.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz

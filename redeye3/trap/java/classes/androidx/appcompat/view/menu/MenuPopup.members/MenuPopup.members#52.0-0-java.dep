@@ -1,0 +1,24 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\appcompat\view\menu\MenuPopup.members\MenuPopup.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/appcompat/view/menu/MenuPopup.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/appcompat/view/menu/ShowableListMenu.members.trap.gz
+classes/androidx/appcompat/view/menu/MenuPresenter.members.trap.gz
+classes/android/widget/AdapterView$OnItemClickListener.members.trap.gz
+classes/androidx/appcompat/view/menu/MenuBuilder.members.trap.gz
+classes/android/widget/ListAdapter.members.trap.gz
+classes/androidx/appcompat/view/menu/MenuAdapter.members.trap.gz
+classes/android/view/ViewGroup.members.trap.gz
+classes/android/content/Context.members.trap.gz
+classes/android/widget/AdapterView.members.trap.gz
+classes/android/view/View.members.trap.gz
+classes/androidx/appcompat/view/menu/MenuItemImpl.members.trap.gz
+classes/androidx/appcompat/view/menu/MenuView.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz
+classes/androidx/annotation/Nullable.members.trap.gz
+classes/android/widget/PopupWindow$OnDismissListener.members.trap.gz
+classes/android/graphics/Rect.members.trap.gz

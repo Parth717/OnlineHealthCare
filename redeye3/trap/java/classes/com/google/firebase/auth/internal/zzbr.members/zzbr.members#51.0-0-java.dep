@@ -1,0 +1,18 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\google\firebase\auth\internal\zzbr.members\zzbr.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/com/google/firebase/auth/internal/zzbr.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/com/google/firebase/auth/internal/zzbs.members.trap.gz
+classes/com/google/firebase/FirebaseApp.members.trap.gz
+classes/com/google/firebase/auth/FirebaseAuth.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Boolean.members.trap.gz
+classes/com/google/android/gms/tasks/Task.members.trap.gz
+classes/androidx/annotation/Nullable.members.trap.gz
+classes/com/google/android/recaptcha/RecaptchaAction.members.trap.gz
+classes/com/google/firebase/auth/internal/zzbm.members.trap.gz
+classes/java/util/Map.members.trap.gz

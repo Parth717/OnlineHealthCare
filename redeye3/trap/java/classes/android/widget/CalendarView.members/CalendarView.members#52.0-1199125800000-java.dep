@@ -1,0 +1,18 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\widget\CalendarView.members\CalendarView.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/widget/CalendarView.members.trap.gz
+classes/android/widget/FrameLayout.members.trap.gz
+classes/java/lang/CharSequence.members.trap.gz
+classes/android/content/res/Configuration.members.trap.gz
+classes/android/widget/CalendarView$OnDateChangeListener.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/graphics/drawable/Drawable.members.trap.gz
+classes/android/content/Context.members.trap.gz
+classes/android/util/AttributeSet.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz

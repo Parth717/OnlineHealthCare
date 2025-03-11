@@ -1,0 +1,27 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\appcompat\widget\DecorToolbar.members\DecorToolbar.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/appcompat/widget/DecorToolbar.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/annotation/RestrictTo.members.trap.gz
+classes/androidx/annotation/RestrictTo$Scope.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/android/view/Menu.members.trap.gz
+classes/androidx/appcompat/view/menu/MenuPresenter$Callback.members.trap.gz
+classes/androidx/appcompat/view/menu/MenuBuilder$Callback.members.trap.gz
+classes/android/graphics/drawable/Drawable.members.trap.gz
+classes/android/os/Parcelable.members.trap.gz
+classes/android/util/SparseArray.members.trap.gz
+classes/java/lang/CharSequence.members.trap.gz
+classes/androidx/core/view/ViewPropertyAnimatorCompat.members.trap.gz
+classes/android/view/View.members.trap.gz
+classes/android/widget/SpinnerAdapter.members.trap.gz
+classes/android/widget/AdapterView$OnItemSelectedListener.members.trap.gz
+classes/androidx/appcompat/widget/ScrollingTabContainerView.members.trap.gz
+classes/android/view/Window$Callback.members.trap.gz
+classes/android/content/Context.members.trap.gz
+classes/android/view/ViewGroup.members.trap.gz

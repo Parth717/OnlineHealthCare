@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\util\Printer.members\Printer.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/util/Printer.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz

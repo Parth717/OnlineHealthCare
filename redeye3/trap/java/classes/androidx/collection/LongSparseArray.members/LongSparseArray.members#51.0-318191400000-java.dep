@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\collection\LongSparseArray.members\LongSparseArray.members#51.0-318191400000-java.trap.gz
+
+TRAPS
+classes/androidx/collection/LongSparseArray.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/androidx/annotation/Nullable.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz

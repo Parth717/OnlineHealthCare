@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\widget\Toolbar$LayoutParams.members\Toolbar$LayoutParams.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/widget/Toolbar$LayoutParams.members.trap.gz
+classes/android/app/ActionBar$LayoutParams.members.trap.gz
+classes/android/widget/Toolbar.members.trap.gz
+classes/android/view/ViewGroup$LayoutParams.members.trap.gz
+classes/android/view/ViewGroup$MarginLayoutParams.members.trap.gz
+classes/android/content/Context.members.trap.gz
+classes/android/util/AttributeSet.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz

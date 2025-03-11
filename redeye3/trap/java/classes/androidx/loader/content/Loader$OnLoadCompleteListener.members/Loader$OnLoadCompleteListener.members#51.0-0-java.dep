@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\loader\content\Loader$OnLoadCompleteListener.members\Loader$OnLoadCompleteListener.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/loader/content/Loader$OnLoadCompleteListener.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/loader/content/Loader.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz
+classes/androidx/annotation/Nullable.members.trap.gz

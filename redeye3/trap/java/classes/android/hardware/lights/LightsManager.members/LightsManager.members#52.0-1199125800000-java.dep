@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\hardware\lights\LightsManager.members\LightsManager.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/hardware/lights/LightsManager.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/hardware/lights/LightsManager$LightsSession.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/android/hardware/lights/Light.members.trap.gz
+classes/android/hardware/lights/LightState.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz

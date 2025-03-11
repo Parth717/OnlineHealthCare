@@ -1,0 +1,19 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\view\translation\ViewTranslationRequest.members\ViewTranslationRequest.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/view/translation/ViewTranslationRequest.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/os/Parcelable.members.trap.gz
+classes/android/os/Parcel.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/view/autofill/AutofillId.members.trap.gz
+classes/java/util/Set.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/android/view/translation/TranslationRequestValue.members.trap.gz
+classes/android/os/Parcelable$Creator.members.trap.gz

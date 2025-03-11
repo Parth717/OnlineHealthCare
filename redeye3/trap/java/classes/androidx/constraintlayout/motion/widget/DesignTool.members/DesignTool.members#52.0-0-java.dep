@@ -1,0 +1,19 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\constraintlayout\motion\widget\DesignTool.members\DesignTool.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/constraintlayout/motion/widget/DesignTool.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/constraintlayout/motion/widget/ProxyInterface.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/lang/Boolean.members.trap.gz
+classes/androidx/constraintlayout/motion/widget/MotionLayout.members.trap.gz
+classes/java/util/HashMap.members.trap.gz
+classes/java/util/AbstractMap.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/java/lang/Integer.members.trap.gz
+classes/android/util/Pair.members.trap.gz

@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\hardware\TriggerEvent.members\TriggerEvent.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/hardware/TriggerEvent.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/android/hardware/Sensor.members.trap.gz

@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\annotation\VisibleForTesting.members\VisibleForTesting.members#52.0-318191400000-java.trap.gz
+
+TRAPS
+classes/androidx/annotation/VisibleForTesting.members.trap.gz
+classes/java/lang/annotation/Annotation.members.trap.gz
+classes/java/lang/annotation/Retention.members.trap.gz
+classes/java/lang/annotation/RetentionPolicy.members.trap.gz
+classes/kotlin/annotation/Retention.members.trap.gz
+classes/kotlin/annotation/AnnotationRetention.members.trap.gz
+classes/androidx/annotation/VisibleForTesting$Companion.members.trap.gz
+classes/org/jetbrains/annotations/NotNull.members.trap.gz
+classes/java/lang/String.members.trap.gz

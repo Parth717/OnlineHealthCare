@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\appcompat\view\ActionMode$Callback.members\ActionMode$Callback.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/appcompat/view/ActionMode$Callback.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/appcompat/view/ActionMode.members.trap.gz
+classes/android/view/MenuItem.members.trap.gz
+classes/android/view/Menu.members.trap.gz

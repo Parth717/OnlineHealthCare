@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\core\util\Pools$Pool.members\Pools$Pool.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/core/util/Pools$Pool.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/core/util/Pools.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz
+classes/androidx/annotation/Nullable.members.trap.gz

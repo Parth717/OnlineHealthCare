@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\xml\sax\Locator.members\Locator.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/org/xml/sax/Locator.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz

@@ -1,0 +1,17 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\google\firebase\auth\internal\InternalAuthProvider.members\InternalAuthProvider.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/com/google/firebase/auth/internal/InternalAuthProvider.members.trap.gz
+classes/com/google/firebase/internal/InternalTokenProvider.members.trap.gz
+classes/com/google/android/gms/common/annotation/KeepForSdk.members.trap.gz
+classes/com/google/firebase/auth/internal/IdTokenListener.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz
+classes/com/google/firebase/annotations/DeferredApi.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/androidx/annotation/Nullable.members.trap.gz
+classes/com/google/android/gms/tasks/Task.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/com/google/firebase/auth/GetTokenResult.members.trap.gz

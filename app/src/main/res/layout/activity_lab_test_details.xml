@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background7"
+    tools:context=".LabTestDetailsActivity">
+    <TextView
+        android:id="@+id/titleViewDDName"
+        android:layout_width="158dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="136dp"
+        android:fontFamily="cursive"
+        android:text="OHC"
+        android:textAlignment="center"
+        android:textColor="@android:color/holo_orange_dark"
+        android:textSize="50sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+
+        tools:ignore="MissingConstraints" />
+
+
+    <TextView
+        android:id="@+id/textViewHA_title"
+        android:layout_width="410dp"
+        android:layout_height="117dp"
+        android:layout_below="@+id/titleViewDDName"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="12dp"
+        android:layout_marginEnd="8dp"
+        android:fontFamily="cursive"
+        android:text="Lab Test and Packages"
+        android:textAlignment="center"
+        android:textColor="?android:attr/statusBarColor"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/titleViewDDName"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/buttonADback"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="112dp"
+        android:layout_marginEnd="160dp"
+        android:text="Back"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextCL" />
+
+    <Button
+        android:id="@+id/buttonCLCheck"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="136dp"
+        android:layout_marginTop="64dp"
+        android:text="Add to cart"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextCL" />
+
+    <EditText
+        android:id="@+id/editTextCL"
+        android:layout_width="314dp"
+        android:layout_height="322dp"
+        android:layout_marginStart="44dp"
+        android:layout_marginTop="28dp"
+        android:gravity="start|top"
+        android:editable="false"
+        android:ems="10"
+        android:inputType="textMultiLine"
+        android:textColor="@color/black"
+        android:text="INFO"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewHA_title"
+        tools:ignore="Deprecated" />
+
+    <TextView
+        android:id="@+id/textViewCL"
+        android:layout_width="166dp"
+        android:layout_height="27dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="120dp"
+        android:text="TextView"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextCL" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,25 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\appcompat\widget\LinearLayoutCompat.members\LinearLayoutCompat.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/appcompat/widget/LinearLayoutCompat.members.trap.gz
+classes/android/view/ViewGroup.members.trap.gz
+classes/android/view/accessibility/AccessibilityNodeInfo.members.trap.gz
+classes/android/view/accessibility/AccessibilityEvent.members.trap.gz
+classes/android/view/ViewGroup$LayoutParams.members.trap.gz
+classes/androidx/appcompat/widget/LinearLayoutCompat$LayoutParams.members.trap.gz
+classes/android/util/AttributeSet.members.trap.gz
+classes/androidx/annotation/GravityInt.members.trap.gz
+classes/android/view/View.members.trap.gz
+classes/androidx/annotation/RestrictTo.members.trap.gz
+classes/androidx/annotation/RestrictTo$Scope.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/android/graphics/Canvas.members.trap.gz
+classes/android/graphics/drawable/Drawable.members.trap.gz
+classes/android/content/Context.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz
+classes/androidx/annotation/Nullable.members.trap.gz

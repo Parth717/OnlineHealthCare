@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\app\ActionBar$OnNavigationListener.members\ActionBar$OnNavigationListener.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/app/ActionBar$OnNavigationListener.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/app/ActionBar.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/java/lang/String.members.trap.gz

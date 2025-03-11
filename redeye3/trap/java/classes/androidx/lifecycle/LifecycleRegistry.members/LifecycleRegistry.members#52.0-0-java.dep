@@ -1,0 +1,18 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\lifecycle\LifecycleRegistry.members\LifecycleRegistry.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/lifecycle/LifecycleRegistry.members.trap.gz
+classes/androidx/lifecycle/Lifecycle.members.trap.gz
+classes/androidx/lifecycle/Lifecycle$State.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz
+classes/androidx/annotation/Nullable.members.trap.gz
+classes/androidx/lifecycle/LifecycleOwner.members.trap.gz
+classes/androidx/annotation/VisibleForTesting.members.trap.gz
+classes/androidx/lifecycle/LifecycleObserver.members.trap.gz
+classes/androidx/lifecycle/Lifecycle$Event.members.trap.gz
+classes/androidx/annotation/MainThread.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/java/lang/String.members.trap.gz

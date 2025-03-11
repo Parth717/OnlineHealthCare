@@ -1,0 +1,20 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\view\textclassifier\TextLinks$Request.members\TextLinks$Request.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/view/textclassifier/TextLinks$Request.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/os/Parcelable.members.trap.gz
+classes/android/view/textclassifier/TextLinks.members.trap.gz
+classes/android/os/Parcel.members.trap.gz
+classes/android/os/Bundle.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz
+classes/java/time/ZonedDateTime.members.trap.gz
+classes/android/view/textclassifier/TextClassifier$EntityConfig.members.trap.gz
+classes/android/os/LocaleList.members.trap.gz
+classes/java/lang/CharSequence.members.trap.gz
+classes/android/os/Parcelable$Creator.members.trap.gz

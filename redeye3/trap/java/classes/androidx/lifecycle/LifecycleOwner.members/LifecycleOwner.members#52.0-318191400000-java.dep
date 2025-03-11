@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\lifecycle\LifecycleOwner.members\LifecycleOwner.members#52.0-318191400000-java.trap.gz
+
+TRAPS
+classes/androidx/lifecycle/LifecycleOwner.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/lifecycle/Lifecycle.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz

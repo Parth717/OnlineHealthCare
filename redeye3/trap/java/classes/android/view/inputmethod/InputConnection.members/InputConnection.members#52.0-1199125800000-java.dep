@@ -1,0 +1,21 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\view\inputmethod\InputConnection.members\InputConnection.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/view/inputmethod/InputConnection.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/view/inputmethod/InputContentInfo.members.trap.gz
+classes/android/os/Bundle.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz
+classes/android/os/Handler.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/view/KeyEvent.members.trap.gz
+classes/android/view/inputmethod/CorrectionInfo.members.trap.gz
+classes/android/view/inputmethod/CompletionInfo.members.trap.gz
+classes/java/lang/CharSequence.members.trap.gz
+classes/android/view/inputmethod/ExtractedTextRequest.members.trap.gz
+classes/android/view/inputmethod/ExtractedText.members.trap.gz
+classes/android/view/inputmethod/SurroundingText.members.trap.gz

@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\example\ohc\ArticleDetailActivity.members\ArticleDetailActivity.members#0.0-1695722092240-java.trap.gz
+
+TRAPS
+classes/com/example/ohc/ArticleDetailActivity.members.trap.gz
+classes/androidx/appcompat/app/AppCompatActivity.members.trap.gz
+classes/android/os/Bundle.members.trap.gz
+classes/java/lang/Override.members.trap.gz
+classes/android/widget/Button.members.trap.gz
+classes/android/widget/TextView.members.trap.gz

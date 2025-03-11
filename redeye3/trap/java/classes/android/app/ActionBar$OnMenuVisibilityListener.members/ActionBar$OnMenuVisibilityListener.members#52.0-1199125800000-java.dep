@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\app\ActionBar$OnMenuVisibilityListener.members\ActionBar$OnMenuVisibilityListener.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/app/ActionBar$OnMenuVisibilityListener.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/app/ActionBar.members.trap.gz

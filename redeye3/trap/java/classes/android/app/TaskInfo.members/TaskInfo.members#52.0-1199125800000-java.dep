@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\app\TaskInfo.members\TaskInfo.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/app/TaskInfo.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/content/ComponentName.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz
+classes/android/app/ActivityManager$TaskDescription.members.trap.gz
+classes/android/content/Intent.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz

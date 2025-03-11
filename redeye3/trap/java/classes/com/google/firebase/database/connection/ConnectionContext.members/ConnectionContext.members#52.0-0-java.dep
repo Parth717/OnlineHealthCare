@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\google\firebase\database\connection\ConnectionContext.members\ConnectionContext.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/com/google/firebase/database/connection/ConnectionContext.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/util/concurrent/ScheduledExecutorService.members.trap.gz
+classes/com/google/firebase/database/connection/ConnectionTokenProvider.members.trap.gz
+classes/com/google/firebase/database/logging/Logger.members.trap.gz

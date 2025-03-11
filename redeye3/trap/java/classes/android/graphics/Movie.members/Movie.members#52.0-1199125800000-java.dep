@@ -1,0 +1,16 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\graphics\Movie.members\Movie.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/graphics/Movie.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Throwable.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/io/InputStream.members.trap.gz
+classes/android/graphics/Canvas.members.trap.gz
+classes/android/graphics/Paint.members.trap.gz

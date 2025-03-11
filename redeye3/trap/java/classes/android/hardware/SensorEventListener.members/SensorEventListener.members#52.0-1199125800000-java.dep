@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\hardware\SensorEventListener.members\SensorEventListener.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/hardware/SensorEventListener.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/hardware/Sensor.members.trap.gz
+classes/android/hardware/SensorEvent.members.trap.gz

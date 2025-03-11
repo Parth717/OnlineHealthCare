@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\database\sqlite\SQLiteQuery.members\SQLiteQuery.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/database/sqlite/SQLiteQuery.members.trap.gz
+classes/android/database/sqlite/SQLiteProgram.members.trap.gz
+classes/java/lang/String.members.trap.gz

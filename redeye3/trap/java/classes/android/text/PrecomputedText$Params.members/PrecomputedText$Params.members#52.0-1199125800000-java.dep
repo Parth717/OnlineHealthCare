@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\text\PrecomputedText$Params.members\PrecomputedText$Params.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/text/PrecomputedText$Params.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/text/PrecomputedText.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz
+classes/android/text/TextDirectionHeuristic.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/android/text/TextPaint.members.trap.gz

@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\example\ohc\BuyMedicineActivity.members\BuyMedicineActivity.members#0.0-1695732242856-java.trap.gz
+
+TRAPS
+classes/com/example/ohc/BuyMedicineActivity.members.trap.gz
+classes/androidx/appcompat/app/AppCompatActivity.members.trap.gz
+classes/android/os/Bundle.members.trap.gz
+classes/java/lang/Override.members.trap.gz
+classes/com/google/firebase/auth/FirebaseUser.members.trap.gz
+classes/com/google/firebase/auth/FirebaseAuth.members.trap.gz
+classes/com/google/firebase/database/DatabaseReference.members.trap.gz
+classes/android/widget/Button.members.trap.gz
+classes/android/widget/TextView.members.trap.gz

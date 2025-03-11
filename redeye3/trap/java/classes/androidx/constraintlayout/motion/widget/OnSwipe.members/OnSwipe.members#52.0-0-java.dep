@@ -1,0 +1,8 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\constraintlayout\motion\widget\OnSwipe.members\OnSwipe.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/constraintlayout/motion/widget/OnSwipe.members.trap.gz
+classes/java/lang/Object.members.trap.gz

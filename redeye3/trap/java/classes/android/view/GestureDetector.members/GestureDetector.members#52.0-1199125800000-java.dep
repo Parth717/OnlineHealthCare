@@ -1,0 +1,16 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\view\GestureDetector.members\GestureDetector.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/view/GestureDetector.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/view/MotionEvent.members.trap.gz
+classes/android/view/GestureDetector$OnContextClickListener.members.trap.gz
+classes/android/view/GestureDetector$OnDoubleTapListener.members.trap.gz
+classes/android/content/Context.members.trap.gz
+classes/android/view/GestureDetector$OnGestureListener.members.trap.gz
+classes/android/os/Handler.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/java/lang/String.members.trap.gz

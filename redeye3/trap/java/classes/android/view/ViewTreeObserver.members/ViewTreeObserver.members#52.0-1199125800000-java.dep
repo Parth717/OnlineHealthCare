@@ -1,0 +1,26 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\view\ViewTreeObserver.members\ViewTreeObserver.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/view/ViewTreeObserver.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/graphics/Rect.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/util/function/Consumer.members.trap.gz
+classes/java/lang/FunctionalInterface.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/android/view/ViewTreeObserver$OnTouchModeChangeListener.members.trap.gz
+classes/android/view/ViewTreeObserver$OnScrollChangedListener.members.trap.gz
+classes/java/lang/Runnable.members.trap.gz
+classes/android/view/ViewTreeObserver$OnDrawListener.members.trap.gz
+classes/android/view/ViewTreeObserver$OnPreDrawListener.members.trap.gz
+classes/android/view/ViewTreeObserver$OnGlobalLayoutListener.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/view/ViewTreeObserver$OnGlobalFocusChangeListener.members.trap.gz
+classes/android/view/ViewTreeObserver$OnWindowFocusChangeListener.members.trap.gz
+classes/android/view/ViewTreeObserver$OnWindowAttachListener.members.trap.gz

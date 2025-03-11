@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\appcompat\view\menu\MenuView$ItemView.members\MenuView$ItemView.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/appcompat/view/menu/MenuView$ItemView.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/appcompat/view/menu/MenuView.members.trap.gz
+classes/android/graphics/drawable/Drawable.members.trap.gz
+classes/java/lang/CharSequence.members.trap.gz
+classes/androidx/appcompat/view/menu/MenuItemImpl.members.trap.gz

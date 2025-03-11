@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\view\accessibility\AccessibilityNodeInfo$RangeInfo.members\AccessibilityNodeInfo$RangeInfo.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/view/accessibility/AccessibilityNodeInfo$RangeInfo.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/view/accessibility/AccessibilityNodeInfo.members.trap.gz

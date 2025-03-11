@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\view\WindowInsetsAnimationController.members\WindowInsetsAnimationController.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/view/WindowInsetsAnimationController.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/graphics/Insets.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz

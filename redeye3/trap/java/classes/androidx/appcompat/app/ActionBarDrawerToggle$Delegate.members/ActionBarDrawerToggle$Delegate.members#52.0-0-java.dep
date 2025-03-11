@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\appcompat\app\ActionBarDrawerToggle$Delegate.members\ActionBarDrawerToggle$Delegate.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/appcompat/app/ActionBarDrawerToggle$Delegate.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/appcompat/app/ActionBarDrawerToggle.members.trap.gz
+classes/android/content/Context.members.trap.gz
+classes/android/graphics/drawable/Drawable.members.trap.gz
+classes/androidx/annotation/StringRes.members.trap.gz

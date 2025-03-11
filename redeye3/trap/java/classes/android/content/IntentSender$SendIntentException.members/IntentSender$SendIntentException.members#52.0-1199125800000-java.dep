@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\content\IntentSender$SendIntentException.members\IntentSender$SendIntentException.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/content/IntentSender$SendIntentException.members.trap.gz
+classes/android/util/AndroidException.members.trap.gz
+classes/android/content/IntentSender.members.trap.gz
+classes/java/lang/Exception.members.trap.gz
+classes/java/lang/String.members.trap.gz

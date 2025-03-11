@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+SOURCES
+
+INCLUDES
+
+OBJECTS
+
+INPUT_OBJECTS
+
+TRAPS
+C_\Users\Admin\AndroidStudioProjects\OHC2\app\src\main\java\com\example\ohc\RegisterActivity.java.trap.gz
+jars\C_\Users\Admin\AppData\Local\Android\Sdk\platforms\android-32\android.jar.trap.gz
+jars\C_\Users\Admin\.gradle\caches\transforms-3\2b7c2df26c34e15a7ddaff0f9e6ba706\transformed\play-services-tasks-18.0.2-api.jar.trap.gz

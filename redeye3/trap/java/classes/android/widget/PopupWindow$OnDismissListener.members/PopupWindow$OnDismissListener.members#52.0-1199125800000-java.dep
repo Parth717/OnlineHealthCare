@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\widget\PopupWindow$OnDismissListener.members\PopupWindow$OnDismissListener.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/widget/PopupWindow$OnDismissListener.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/widget/PopupWindow.members.trap.gz

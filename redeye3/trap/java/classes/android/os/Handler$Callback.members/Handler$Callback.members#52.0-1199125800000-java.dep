@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\os\Handler$Callback.members\Handler$Callback.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/os/Handler$Callback.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/os/Handler.members.trap.gz
+classes/android/os/Message.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz

@@ -1,0 +1,25 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\graphics\drawable\Icon.members\Icon.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/graphics/drawable/Icon.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/os/Parcelable.members.trap.gz
+classes/android/os/Parcel.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/graphics/BlendMode.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/android/graphics/PorterDuff$Mode.members.trap.gz
+classes/android/content/res/ColorStateList.members.trap.gz
+classes/android/net/Uri.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/android/graphics/Bitmap.members.trap.gz
+classes/android/content/Context.members.trap.gz
+classes/android/graphics/drawable/Drawable.members.trap.gz
+classes/android/graphics/drawable/Icon$OnDrawableLoadedListener.members.trap.gz
+classes/android/os/Handler.members.trap.gz
+classes/android/os/Message.members.trap.gz
+classes/android/os/Parcelable$Creator.members.trap.gz

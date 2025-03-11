@@ -1,0 +1,19 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\graphics\BitmapFactory.members\BitmapFactory.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/graphics/BitmapFactory.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/io/FileDescriptor.members.trap.gz
+classes/android/graphics/Bitmap.members.trap.gz
+classes/android/graphics/Rect.members.trap.gz
+classes/android/graphics/BitmapFactory$Options.members.trap.gz
+classes/java/io/InputStream.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/android/content/res/Resources.members.trap.gz
+classes/android/util/TypedValue.members.trap.gz
+classes/java/lang/String.members.trap.gz

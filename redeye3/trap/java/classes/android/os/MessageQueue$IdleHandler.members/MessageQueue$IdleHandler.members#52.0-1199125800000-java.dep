@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\os\MessageQueue$IdleHandler.members\MessageQueue$IdleHandler.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/os/MessageQueue$IdleHandler.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/os/MessageQueue.members.trap.gz

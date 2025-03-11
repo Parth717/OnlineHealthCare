@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\text\TextWatcher.members\TextWatcher.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/text/TextWatcher.members.trap.gz
+classes/android/text/NoCopySpan.members.trap.gz
+classes/android/text/Editable.members.trap.gz
+classes/java/lang/CharSequence.members.trap.gz

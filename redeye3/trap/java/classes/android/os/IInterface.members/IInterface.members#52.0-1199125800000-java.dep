@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\os\IInterface.members\IInterface.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/os/IInterface.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/os/IBinder.members.trap.gz

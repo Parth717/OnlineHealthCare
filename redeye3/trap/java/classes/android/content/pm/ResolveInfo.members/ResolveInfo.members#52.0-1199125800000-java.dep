@@ -1,0 +1,21 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\content\pm\ResolveInfo.members\ResolveInfo.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/content/pm/ResolveInfo.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/os/Parcelable.members.trap.gz
+classes/android/os/Parcel.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/util/Printer.members.trap.gz
+classes/android/content/pm/PackageManager.members.trap.gz
+classes/android/graphics/drawable/Drawable.members.trap.gz
+classes/java/lang/CharSequence.members.trap.gz
+classes/android/content/pm/ServiceInfo.members.trap.gz
+classes/android/content/pm/ProviderInfo.members.trap.gz
+classes/android/content/IntentFilter.members.trap.gz
+classes/android/content/pm/ActivityInfo.members.trap.gz
+classes/android/os/Parcelable$Creator.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz

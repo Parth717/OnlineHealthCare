@@ -1,0 +1,8 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\google\firebase\auth\MultiFactorSession.members\MultiFactorSession.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/com/google/firebase/auth/MultiFactorSession.members.trap.gz
+classes/com/google/android/gms/common/internal/safeparcel/AbstractSafeParcelable.members.trap.gz

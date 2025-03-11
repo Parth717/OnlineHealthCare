@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">OHC</string>
+
+    <string name="first_slide">Health</string>
+    <string name="second_slide">Medicines</string>
+    <string name="third_slide">Book Appointment</string>
+
+    <string name="description1">Health is a state of complete harmony of the body, mind, and spirit.We can help you in that...</string>
+    <string name="description2">Order your medicines anytime you want. This pharmcy will 24/7 at your service...</string>
+    <string name="description3">No time to go and book appointment. We can help you. Book your Appointment whenever you want,at your choice of time and date...</string>
+
+
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

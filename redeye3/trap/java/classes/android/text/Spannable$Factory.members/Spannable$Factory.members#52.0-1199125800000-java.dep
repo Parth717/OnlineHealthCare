@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\text\Spannable$Factory.members\Spannable$Factory.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/text/Spannable$Factory.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/text/Spannable.members.trap.gz
+classes/java/lang/CharSequence.members.trap.gz

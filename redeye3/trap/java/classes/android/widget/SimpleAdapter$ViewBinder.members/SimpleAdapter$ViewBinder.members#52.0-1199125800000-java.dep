@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\widget\SimpleAdapter$ViewBinder.members\SimpleAdapter$ViewBinder.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/widget/SimpleAdapter$ViewBinder.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/widget/SimpleAdapter.members.trap.gz
+classes/android/view/View.members.trap.gz
+classes/java/lang/String.members.trap.gz

@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\app\VoiceInteractor$Request.members\VoiceInteractor$Request.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/app/VoiceInteractor$Request.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/app/VoiceInteractor.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/app/Activity.members.trap.gz
+classes/android/content/Context.members.trap.gz

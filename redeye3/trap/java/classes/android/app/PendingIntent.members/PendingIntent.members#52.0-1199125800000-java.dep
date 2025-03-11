@@ -1,0 +1,25 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\app\PendingIntent.members\PendingIntent.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/app/PendingIntent.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/os/Parcelable.members.trap.gz
+classes/android/os/Parcel.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/os/UserHandle.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/android/content/Context.members.trap.gz
+classes/android/content/Intent.members.trap.gz
+classes/android/app/PendingIntent$OnFinished.members.trap.gz
+classes/android/os/Handler.members.trap.gz
+classes/android/os/Bundle.members.trap.gz
+classes/android/app/PendingIntent$CanceledException.members.trap.gz
+classes/android/content/IntentSender.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/android/os/Parcelable$Creator.members.trap.gz

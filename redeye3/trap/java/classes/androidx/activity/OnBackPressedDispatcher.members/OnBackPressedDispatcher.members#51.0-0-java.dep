@@ -1,0 +1,25 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\activity\OnBackPressedDispatcher.members\OnBackPressedDispatcher.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/activity/OnBackPressedDispatcher.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/annotation/MainThread.members.trap.gz
+classes/androidx/lifecycle/LifecycleOwner.members.trap.gz
+classes/androidx/activity/OnBackPressedCallback.members.trap.gz
+classes/android/annotation/SuppressLint.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz
+classes/androidx/activity/Cancellable.members.trap.gz
+classes/java/lang/Runnable.members.trap.gz
+classes/androidx/annotation/Nullable.members.trap.gz
+classes/java/util/ArrayDeque.members.trap.gz
+classes/java/util/AbstractCollection.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/util/Deque.members.trap.gz
+classes/java/util/Queue.members.trap.gz

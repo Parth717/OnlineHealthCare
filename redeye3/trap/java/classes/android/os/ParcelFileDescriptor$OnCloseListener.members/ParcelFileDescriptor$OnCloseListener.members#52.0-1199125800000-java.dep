@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\os\ParcelFileDescriptor$OnCloseListener.members\ParcelFileDescriptor$OnCloseListener.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/os/ParcelFileDescriptor$OnCloseListener.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/os/ParcelFileDescriptor.members.trap.gz
+classes/java/io/IOException.members.trap.gz

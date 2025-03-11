@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\google\firebase\auth\AuthResult.members\AuthResult.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/com/google/firebase/auth/AuthResult.members.trap.gz
+classes/com/google/android/gms/common/internal/safeparcel/SafeParcelable.members.trap.gz
+classes/com/google/firebase/auth/FirebaseUser.members.trap.gz
+classes/androidx/annotation/Nullable.members.trap.gz
+classes/com/google/firebase/auth/AuthCredential.members.trap.gz
+classes/com/google/firebase/auth/AdditionalUserInfo.members.trap.gz

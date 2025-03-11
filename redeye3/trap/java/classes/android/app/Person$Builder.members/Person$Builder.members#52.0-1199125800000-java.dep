@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\app\Person$Builder.members\Person$Builder.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/app/Person$Builder.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/app/Person.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz
+classes/android/graphics/drawable/Icon.members.trap.gz
+classes/java/lang/CharSequence.members.trap.gz

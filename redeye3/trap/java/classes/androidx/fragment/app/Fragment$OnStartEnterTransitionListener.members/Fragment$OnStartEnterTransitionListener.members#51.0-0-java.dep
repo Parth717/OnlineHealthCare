@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\fragment\app\Fragment$OnStartEnterTransitionListener.members\Fragment$OnStartEnterTransitionListener.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/fragment/app/Fragment$OnStartEnterTransitionListener.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/fragment/app/Fragment.members.trap.gz

@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\view\ViewOverlay.members\ViewOverlay.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/view/ViewOverlay.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/graphics/drawable/Drawable.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz

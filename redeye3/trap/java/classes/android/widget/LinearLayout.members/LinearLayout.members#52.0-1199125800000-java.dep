@@ -1,0 +1,17 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\widget\LinearLayout.members\LinearLayout.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/widget/LinearLayout.members.trap.gz
+classes/android/view/ViewGroup.members.trap.gz
+classes/android/widget/RemoteViews$RemoteView.members.trap.gz
+classes/java/lang/CharSequence.members.trap.gz
+classes/android/view/ViewGroup$LayoutParams.members.trap.gz
+classes/android/widget/LinearLayout$LayoutParams.members.trap.gz
+classes/android/util/AttributeSet.members.trap.gz
+classes/android/graphics/Canvas.members.trap.gz
+classes/android/graphics/drawable/Drawable.members.trap.gz
+classes/android/content/Context.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz

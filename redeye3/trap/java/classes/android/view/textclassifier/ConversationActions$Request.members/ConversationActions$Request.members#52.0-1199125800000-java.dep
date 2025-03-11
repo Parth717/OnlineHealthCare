@@ -1,0 +1,21 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\view\textclassifier\ConversationActions$Request.members\ConversationActions$Request.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/view/textclassifier/ConversationActions$Request.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/os/Parcelable.members.trap.gz
+classes/android/view/textclassifier/ConversationActions.members.trap.gz
+classes/android/os/Bundle.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/android/view/textclassifier/ConversationActions$Message.members.trap.gz
+classes/android/view/textclassifier/TextClassifier$EntityConfig.members.trap.gz
+classes/android/os/Parcel.members.trap.gz
+classes/android/os/Parcelable$Creator.members.trap.gz

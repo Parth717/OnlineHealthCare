@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\content\IntentFilter$AuthorityEntry.members\IntentFilter$AuthorityEntry.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/content/IntentFilter$AuthorityEntry.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/content/IntentFilter.members.trap.gz
+classes/android/net/Uri.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz
+classes/java/lang/String.members.trap.gz

@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\google\android\gms\common\internal\safeparcel\SafeParcelable$Param.members\SafeParcelable$Param.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/com/google/android/gms/common/internal/safeparcel/SafeParcelable$Param.members.trap.gz
+classes/java/lang/annotation/Annotation.members.trap.gz
+classes/com/google/android/gms/common/internal/safeparcel/SafeParcelable.members.trap.gz

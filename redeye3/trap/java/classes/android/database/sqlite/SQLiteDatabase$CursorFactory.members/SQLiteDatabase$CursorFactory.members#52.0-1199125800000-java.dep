@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\database\sqlite\SQLiteDatabase$CursorFactory.members\SQLiteDatabase$CursorFactory.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/database/sqlite/SQLiteDatabase$CursorFactory.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/database/sqlite/SQLiteDatabase.members.trap.gz
+classes/android/database/sqlite/SQLiteCursorDriver.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/database/sqlite/SQLiteQuery.members.trap.gz
+classes/android/database/Cursor.members.trap.gz

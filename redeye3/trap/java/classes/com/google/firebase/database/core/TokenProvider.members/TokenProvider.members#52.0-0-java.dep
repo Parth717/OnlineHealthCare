@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\google\firebase\database\core\TokenProvider.members\TokenProvider.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/com/google/firebase/database/core/TokenProvider.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/com/google/firebase/database/core/TokenProvider$TokenChangeListener.members.trap.gz
+classes/java/util/concurrent/ExecutorService.members.trap.gz
+classes/com/google/firebase/database/core/TokenProvider$GetTokenCompletionListener.members.trap.gz

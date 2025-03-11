@@ -1,0 +1,22 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\view\MenuItem.members\MenuItem.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/view/MenuItem.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/CharSequence.members.trap.gz
+classes/android/view/MenuItem$OnActionExpandListener.members.trap.gz
+classes/android/view/ActionProvider.members.trap.gz
+classes/android/view/View.members.trap.gz
+classes/android/view/ContextMenu$ContextMenuInfo.members.trap.gz
+classes/android/view/MenuItem$OnMenuItemClickListener.members.trap.gz
+classes/android/view/SubMenu.members.trap.gz
+classes/android/content/Intent.members.trap.gz
+classes/android/graphics/BlendMode.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz
+classes/android/graphics/PorterDuff$Mode.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/android/content/res/ColorStateList.members.trap.gz
+classes/android/graphics/drawable/Drawable.members.trap.gz

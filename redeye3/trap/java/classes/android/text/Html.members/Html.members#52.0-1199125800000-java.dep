@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\text\Html.members\Html.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/text/Html.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/CharSequence.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/text/Spanned.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/android/text/Html$ImageGetter.members.trap.gz
+classes/android/text/Html$TagHandler.members.trap.gz

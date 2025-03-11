@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\content\ContentResolver$MimeTypeInfo.members\ContentResolver$MimeTypeInfo.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/content/ContentResolver$MimeTypeInfo.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/content/ContentResolver.members.trap.gz
+classes/java/lang/CharSequence.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/android/graphics/drawable/Icon.members.trap.gz

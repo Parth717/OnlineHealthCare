@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\core\view\TintableBackgroundView.members\TintableBackgroundView.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/core/view/TintableBackgroundView.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/graphics/PorterDuff$Mode.members.trap.gz
+classes/androidx/annotation/Nullable.members.trap.gz
+classes/android/content/res/ColorStateList.members.trap.gz

@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\example\ohc\Medicine.members\Medicine.members#0.0-1693318809584-java.trap.gz
+
+TRAPS
+classes/com/example/ohc/Medicine.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz

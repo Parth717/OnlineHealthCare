@@ -1,0 +1,21 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\app\TaskStackBuilder.members\TaskStackBuilder.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/app/TaskStackBuilder.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/content/Intent.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/android/os/Bundle.members.trap.gz
+classes/android/app/PendingIntent.members.trap.gz
+classes/android/content/ComponentName.members.trap.gz
+classes/java/lang/Class.members.trap.gz
+classes/java/lang/reflect/GenericDeclaration.members.trap.gz
+classes/java/lang/reflect/Type.members.trap.gz
+classes/java/lang/reflect/AnnotatedElement.members.trap.gz
+classes/android/app/Activity.members.trap.gz
+classes/android/content/Context.members.trap.gz

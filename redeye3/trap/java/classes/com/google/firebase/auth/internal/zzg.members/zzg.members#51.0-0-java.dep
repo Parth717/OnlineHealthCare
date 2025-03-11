@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\google\firebase\auth\internal\zzg.members\zzg.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/com/google/firebase/auth/internal/zzg.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/com/google/firebase/auth/FirebaseUser.members.trap.gz

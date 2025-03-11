@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\graphics\Shader.members\Shader.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/graphics/Shader.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/graphics/Matrix.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/java/lang/String.members.trap.gz

@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\media\session\MediaSessionManager$RemoteUserInfo.members\MediaSessionManager$RemoteUserInfo.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/media/session/MediaSessionManager$RemoteUserInfo.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/media/session/MediaSessionManager.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz

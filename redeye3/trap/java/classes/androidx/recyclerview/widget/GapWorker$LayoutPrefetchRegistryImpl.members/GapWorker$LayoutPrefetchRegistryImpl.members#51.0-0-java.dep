@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\recyclerview\widget\GapWorker$LayoutPrefetchRegistryImpl.members\GapWorker$LayoutPrefetchRegistryImpl.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/recyclerview/widget/GapWorker$LayoutPrefetchRegistryImpl.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/recyclerview/widget/RecyclerView$LayoutManager$LayoutPrefetchRegistry.members.trap.gz
+classes/androidx/recyclerview/widget/GapWorker.members.trap.gz
+classes/android/annotation/SuppressLint.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/androidx/recyclerview/widget/RecyclerView.members.trap.gz

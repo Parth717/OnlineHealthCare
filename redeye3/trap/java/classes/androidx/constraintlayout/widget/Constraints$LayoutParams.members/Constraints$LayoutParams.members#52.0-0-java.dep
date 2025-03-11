@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\constraintlayout\widget\Constraints$LayoutParams.members\Constraints$LayoutParams.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/constraintlayout/widget/Constraints$LayoutParams.members.trap.gz
+classes/androidx/constraintlayout/widget/ConstraintLayout$LayoutParams.members.trap.gz
+classes/androidx/constraintlayout/widget/Constraints.members.trap.gz
+classes/android/content/Context.members.trap.gz
+classes/android/util/AttributeSet.members.trap.gz

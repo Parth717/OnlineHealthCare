@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\appcompat\view\menu\MenuPresenter$Callback.members\MenuPresenter$Callback.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/appcompat/view/menu/MenuPresenter$Callback.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/appcompat/view/menu/MenuPresenter.members.trap.gz
+classes/androidx/appcompat/view/menu/MenuBuilder.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz

@@ -1,0 +1,18 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\appcompat\view\menu\MenuAdapter.members\MenuAdapter.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/appcompat/view/menu/MenuAdapter.members.trap.gz
+classes/android/widget/BaseAdapter.members.trap.gz
+classes/androidx/annotation/RestrictTo.members.trap.gz
+classes/androidx/annotation/RestrictTo$Scope.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/android/view/View.members.trap.gz
+classes/android/view/ViewGroup.members.trap.gz
+classes/androidx/appcompat/view/menu/MenuItemImpl.members.trap.gz
+classes/androidx/appcompat/view/menu/MenuBuilder.members.trap.gz
+classes/android/view/LayoutInflater.members.trap.gz

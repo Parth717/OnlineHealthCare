@@ -1,0 +1,18 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\content\ContentProviderResult.members\ContentProviderResult.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/content/ContentProviderResult.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/os/Parcelable.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/os/Parcel.members.trap.gz
+classes/java/lang/Throwable.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/android/os/Bundle.members.trap.gz
+classes/android/net/Uri.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz
+classes/java/lang/Integer.members.trap.gz
+classes/android/os/Parcelable$Creator.members.trap.gz

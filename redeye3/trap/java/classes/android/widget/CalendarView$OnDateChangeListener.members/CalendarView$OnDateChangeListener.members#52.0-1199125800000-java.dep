@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\widget\CalendarView$OnDateChangeListener.members\CalendarView$OnDateChangeListener.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/widget/CalendarView$OnDateChangeListener.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/widget/CalendarView.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz

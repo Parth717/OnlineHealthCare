@@ -1,0 +1,17 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\os\Handler.members\Handler.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/os/Handler.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/util/Printer.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/android/os/Looper.members.trap.gz
+classes/java/lang/Runnable.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz
+classes/android/os/Message.members.trap.gz
+classes/android/os/Handler$Callback.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz

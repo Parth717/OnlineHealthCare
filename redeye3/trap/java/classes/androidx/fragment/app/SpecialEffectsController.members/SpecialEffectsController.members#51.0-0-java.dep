@@ -1,0 +1,26 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\fragment\app\SpecialEffectsController.members\SpecialEffectsController.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/fragment/app/SpecialEffectsController.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/fragment/app/SpecialEffectsController$Operation.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz
+classes/androidx/fragment/app/FragmentStateManager.members.trap.gz
+classes/androidx/fragment/app/SpecialEffectsController$Operation$State.members.trap.gz
+classes/androidx/fragment/app/SpecialEffectsController$Operation$LifecycleImpact.members.trap.gz
+classes/androidx/annotation/Nullable.members.trap.gz
+classes/android/view/ViewGroup.members.trap.gz
+classes/androidx/fragment/app/SpecialEffectsControllerFactory.members.trap.gz
+classes/androidx/fragment/app/FragmentManager.members.trap.gz
+classes/java/util/ArrayList.members.trap.gz
+classes/java/util/AbstractList.members.trap.gz
+classes/java/util/AbstractCollection.members.trap.gz
+classes/java/util/RandomAccess.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz

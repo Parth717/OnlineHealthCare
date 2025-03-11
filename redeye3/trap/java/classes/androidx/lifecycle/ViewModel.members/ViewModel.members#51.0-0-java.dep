@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\lifecycle\ViewModel.members\ViewModel.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/lifecycle/ViewModel.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/androidx/annotation/MainThread.members.trap.gz

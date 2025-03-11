@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\savedstate\SavedStateRegistry$AutoRecreated.members\SavedStateRegistry$AutoRecreated.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/savedstate/SavedStateRegistry$AutoRecreated.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/savedstate/SavedStateRegistry.members.trap.gz
+classes/androidx/savedstate/SavedStateRegistryOwner.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz

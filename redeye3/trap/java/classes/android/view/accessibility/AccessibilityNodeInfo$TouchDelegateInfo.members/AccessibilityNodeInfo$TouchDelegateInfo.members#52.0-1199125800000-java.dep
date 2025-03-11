@@ -1,0 +1,17 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\view\accessibility\AccessibilityNodeInfo$TouchDelegateInfo.members\AccessibilityNodeInfo$TouchDelegateInfo.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/view/accessibility/AccessibilityNodeInfo$TouchDelegateInfo.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/os/Parcelable.members.trap.gz
+classes/android/view/accessibility/AccessibilityNodeInfo.members.trap.gz
+classes/android/os/Parcel.members.trap.gz
+classes/android/graphics/Region.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/android/view/View.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/android/os/Parcelable$Creator.members.trap.gz

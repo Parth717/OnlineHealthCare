@@ -1,0 +1,13 @@
+[2024-01-15 10:00:14] [javac-extractor-8132] Starting extraction for:
+                                             sun.java.command=com.semmle.extractor.java.JavaExtractor --jdk-version 18 --javac-args @@@C:\Users\Admin\AndroidStudioProjects\OHC2\redeye3\log\ext\javac-1.args
+                                             user.dir=C:\Users\Admin\AndroidStudioProjects\OHC2
+[2024-01-15 10:00:14] [javac-extractor-8132] Compilation name C:/Users/Admin/AndroidStudioProjects/OHC2/redeye3/trap/java/diagnostics/diagnostic-1.trap.gz
+[2024-01-15 10:00:15] [javac-extractor-8132] [WARN] Appending source destination directory C:\Users\Admin\AndroidStudioProjects\OHC2\app\build\generated\ap_generated_sources\release\out to sourcepath
+[2024-01-15 10:00:21] [javac-extractor-8132] Processing file C:\Users\Admin\AndroidStudioProjects\OHC2\app\build\generated\source\buildConfig\release\com\example\ohc\BuildConfig.java
+[2024-01-15 10:00:21] [javac-extractor-8132] [WARN] Not rewriting trap file for C:\Users\Admin\AndroidStudioProjects\OHC2\redeye3\trap\java\classes\java\lang\String.members\String.members#52.0-1199125800000-java.trap.gz as it exists
+[2024-01-15 10:00:21] [javac-extractor-8132] [WARN] Not rewriting trap file for C:\Users\Admin\AndroidStudioProjects\OHC2\redeye3\trap\java\classes\java\lang\Object.members\Object.members#52.0-1199125800000-java.trap.gz as it exists
+[2024-01-15 10:00:22] [javac-extractor-8132] Javac init time: 4.3s
+[2024-01-15 10:00:22] [javac-extractor-8132] Javac attr time: 1.4s
+[2024-01-15 10:00:22] [javac-extractor-8132] Extractor time: 0.7s
+[2024-01-15 10:00:22] [javac-extractor-8132] Other time: 1.2s
+[2024-01-15 10:00:22] [javac-extractor-8132] Total time: 7.5s

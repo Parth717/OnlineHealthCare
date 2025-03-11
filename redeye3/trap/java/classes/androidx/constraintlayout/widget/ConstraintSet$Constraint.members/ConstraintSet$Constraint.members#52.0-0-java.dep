@@ -1,0 +1,22 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\constraintlayout\widget\ConstraintSet$Constraint.members\ConstraintSet$Constraint.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/constraintlayout/widget/ConstraintSet$Constraint.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/constraintlayout/widget/ConstraintSet.members.trap.gz
+classes/androidx/constraintlayout/widget/ConstraintLayout$LayoutParams.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/androidx/constraintlayout/widget/ConstraintSet$Constraint$Delta.members.trap.gz
+classes/androidx/constraintlayout/widget/ConstraintAttribute.members.trap.gz
+classes/java/util/HashMap.members.trap.gz
+classes/java/util/AbstractMap.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/androidx/constraintlayout/widget/ConstraintSet$Transform.members.trap.gz
+classes/androidx/constraintlayout/widget/ConstraintSet$Layout.members.trap.gz
+classes/androidx/constraintlayout/widget/ConstraintSet$Motion.members.trap.gz
+classes/androidx/constraintlayout/widget/ConstraintSet$PropertySet.members.trap.gz

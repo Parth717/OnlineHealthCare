@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\lifecycle\ViewModelStoreOwner.members\ViewModelStoreOwner.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/lifecycle/ViewModelStoreOwner.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/lifecycle/ViewModelStore.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz

@@ -1,0 +1,23 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\view\WindowManager$LayoutParams.members\WindowManager$LayoutParams.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/view/WindowManager$LayoutParams.members.trap.gz
+classes/android/view/ViewGroup$LayoutParams.members.trap.gz
+classes/android/os/Parcelable.members.trap.gz
+classes/android/view/WindowManager.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/os/Parcel.members.trap.gz
+classes/java/lang/CharSequence.members.trap.gz
+classes/android/view/ViewDebug$ExportedProperty.members.trap.gz
+classes/android/view/ViewDebug$IntToString.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/android/view/ViewDebug$FlagToString.members.trap.gz
+classes/android/os/IBinder.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/android/os/Parcelable$Creator.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz

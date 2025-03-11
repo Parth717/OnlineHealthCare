@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\text\Html$ImageGetter.members\Html$ImageGetter.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/text/Html$ImageGetter.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/text/Html.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/graphics/drawable/Drawable.members.trap.gz

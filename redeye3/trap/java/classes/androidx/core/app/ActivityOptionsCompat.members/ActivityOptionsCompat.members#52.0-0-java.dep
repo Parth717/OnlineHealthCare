@@ -1,0 +1,21 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\core\app\ActivityOptionsCompat.members\ActivityOptionsCompat.members#52.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/core/app/ActivityOptionsCompat.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/app/PendingIntent.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz
+classes/android/os/Bundle.members.trap.gz
+classes/androidx/annotation/Nullable.members.trap.gz
+classes/android/graphics/Rect.members.trap.gz
+classes/android/app/Activity.members.trap.gz
+classes/androidx/core/util/Pair.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/android/view/View.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/graphics/Bitmap.members.trap.gz
+classes/android/content/Context.members.trap.gz

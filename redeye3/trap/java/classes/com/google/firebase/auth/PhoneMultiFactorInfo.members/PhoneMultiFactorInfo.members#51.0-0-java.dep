@@ -1,0 +1,22 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\com\google\firebase\auth\PhoneMultiFactorInfo.members\PhoneMultiFactorInfo.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/com/google/firebase/auth/PhoneMultiFactorInfo.members.trap.gz
+classes/com/google/firebase/auth/MultiFactorInfo.members.trap.gz
+classes/com/google/android/gms/common/internal/safeparcel/SafeParcelable$Class.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/android/os/Parcel.members.trap.gz
+classes/android/annotation/SuppressLint.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/androidx/annotation/NonNull.members.trap.gz
+classes/com/google/android/gms/common/internal/safeparcel/SafeParcelable$Constructor.members.trap.gz
+classes/com/google/android/gms/common/internal/safeparcel/SafeParcelable$Param.members.trap.gz
+classes/org/json/JSONObject.members.trap.gz
+classes/androidx/annotation/Nullable.members.trap.gz
+classes/android/os/Parcelable$Creator.members.trap.gz
+classes/android/os/Parcelable.members.trap.gz

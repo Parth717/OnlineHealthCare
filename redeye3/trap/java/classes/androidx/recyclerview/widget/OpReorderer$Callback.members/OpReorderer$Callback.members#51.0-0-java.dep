@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\recyclerview\widget\OpReorderer$Callback.members\OpReorderer$Callback.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/recyclerview/widget/OpReorderer$Callback.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/recyclerview/widget/OpReorderer.members.trap.gz
+classes/androidx/recyclerview/widget/AdapterHelper$UpdateOp.members.trap.gz

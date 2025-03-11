@@ -1,0 +1,16 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\android\view\WindowInsets.members\WindowInsets.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/android/view/WindowInsets.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/android/annotation/Nullable.members.trap.gz
+classes/android/annotation/NonNull.members.trap.gz
+classes/android/graphics/Insets.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/android/graphics/Rect.members.trap.gz
+classes/android/view/RoundedCorner.members.trap.gz
+classes/android/view/DisplayCutout.members.trap.gz

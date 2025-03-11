@@ -1,0 +1,17 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\androidx\recyclerview\widget\LinearLayoutManager$LayoutState.members\LinearLayoutManager$LayoutState.members#51.0-0-java.trap.gz
+
+TRAPS
+classes/androidx/recyclerview/widget/LinearLayoutManager$LayoutState.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/androidx/recyclerview/widget/LinearLayoutManager.members.trap.gz
+classes/android/view/View.members.trap.gz
+classes/androidx/recyclerview/widget/RecyclerView$Recycler.members.trap.gz
+classes/androidx/recyclerview/widget/RecyclerView$State.members.trap.gz
+classes/androidx/recyclerview/widget/RecyclerView$ViewHolder.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/lang/String.members.trap.gz

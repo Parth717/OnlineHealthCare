@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\json\JSONArray.members\JSONArray.members#52.0-1199125800000-java.trap.gz
+
+TRAPS
+classes/org/json/JSONArray.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/json/JSONException.members.trap.gz
+classes/org/json/JSONObject.members.trap.gz
+classes/org/json/JSONTokener.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
